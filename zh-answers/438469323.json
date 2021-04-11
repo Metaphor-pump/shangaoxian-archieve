@@ -1,0 +1,39 @@
+{
+  "id": 438469323,
+  "question": "东北菜为何较少见到有高档餐厅？",
+  "author": "山高县",
+  "content": "<p>因为上档次的东北菜叫鲁菜。。。。。</p>",
+  "excerpt": "因为上档次的东北菜叫鲁菜。。。",
+  "vote": 44,
+  "thanks": 0,
+  "created_time": 1531156188,
+  "featured_comments": [
+    {
+      "content": "北方菜系说得过去的只有鲁菜。——楚云飞",
+      "vote_count": 25,
+      "created_time": 1531157274,
+      "author": "漫天星",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "北方菜系说得过去的只有鲁菜。——楚云飞",
+          "vote_count": 25,
+          "created_time": 1531157274,
+          "author": "漫天星",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "天津菜和开封菜还是很有特色的，不过貌似都算鲁菜了。。。。。",
+            "vote_count": 10,
+            "created_time": 1531157684,
+            "author": "山高县",
+            "reply_to_author": "漫天星"
+          }
+        ]
+      }
+    }
+  ],
+  "slug": "dong-bei-cai-wei-he-jiao-shao-jian-dao-you-gao-dang-can-ting-shan-gao-xian-de-hui-da",
+  "title": "东北菜为何较少见到有高档餐厅？-山高县的回答"
+}

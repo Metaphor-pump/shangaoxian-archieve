@@ -1,0 +1,53 @@
+{
+  "id": 614732070,
+  "question": "为何世界上只有两种主战坦克（T80系列，M1系列）使用了燃气轮机？",
+  "author": "山高县",
+  "content": "<p>因为预设战场是基建发达地区。</p><p>冷战时期欧洲汽车普及，有大量加油站和油库，而油库和加油站是一种难以快速销毁的设施。所以在欧洲作战的话，不挑油跟省油一样重要。</p>",
+  "excerpt": "因为预设战场是基建发达地区。 冷战时期欧洲汽车普及，有大量加油站和油库，而油库和加油站是一种难以快速销毁的设施。所以在欧洲作战的话，不挑油跟省油一样重要。",
+  "vote": 95,
+  "thanks": 9,
+  "created_time": 1551769388,
+  "featured_comments": [
+    {
+      "content": "销毁容易，建起来也容易",
+      "vote_count": 11,
+      "created_time": 1551772174,
+      "author": "勃拉图",
+      "reply_to_author": "木木",
+      "anchor_comments": {
+        "root_comment": {
+          "content": "<p>还有比加油站更容易销毁设施吗？</p>",
+          "vote_count": 19,
+          "created_time": 1551769592,
+          "author": "木木",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "制造带路党。。。。",
+            "vote_count": 45,
+            "created_time": 1551769652,
+            "author": "山高县",
+            "reply_to_author": "木木"
+          },
+          {
+            "content": "销毁容易，建起来也容易",
+            "vote_count": 11,
+            "created_time": 1551772174,
+            "author": "勃拉图",
+            "reply_to_author": "木木"
+          },
+          {
+            "content": "高，实在是高[赞同]",
+            "vote_count": 2,
+            "created_time": 1551807865,
+            "author": "勃士",
+            "reply_to_author": "山高县"
+          }
+        ]
+      }
+    }
+  ],
+  "slug": "wei-he-shi-jie-shang-zhi-you-liang-zhong-zhu-zhan-tan-ke-T80-xi-lie-M1-xi-lie-shi-yong-le-ran-qi-lun-ji-shan-gao-xian-de-hui-da",
+  "title": "为何世界上只有两种主战坦克（T80系列，M1系列）使用了燃气轮机？-山高县的回答"
+}

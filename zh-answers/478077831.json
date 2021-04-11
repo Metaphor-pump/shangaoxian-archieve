@@ -1,0 +1,215 @@
+{
+  "id": 478077831,
+  "question": "美国的军事武器先进到什么程度？",
+  "author": "山高县",
+  "content": "<p>以一个已经不怎么黑的科技为例:</p><p>隐蔽通道分析技术——有线通信也不保险！</p><p>美军有一种技术叫TEMPEST，我军叫隐蔽通道分析。</p><p>其功能是在一定距离外，从电子设备和有线通信的电磁散射中，截获并分析出敌军的运算和通信内容（隐蔽通道技术范围很广，只说一下关于电磁散射的部分）。</p><p>03年萨达姆只用有线通信，如果不使用低泄露的高级通信缆的话，其实也是无用功。。。。。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>附带提一句，美国芯片中，是有设计好的各种途径的隐蔽通道的。即使能通过我方通道分析技术分析出来大多数，也绝不敢保证没有漏网的。</p><p>而美国为什么禁止华为参加美国基建，原因也很明显。。。。</p><p>其实，美利坚黑科技，是远远超出了美分的想象力的。</p>",
+  "excerpt": "以一个已经不怎么黑的科技为例: 隐蔽通道分析技术——有线通信也不保险！ 美军有一种技术叫TEMPEST，我军叫隐蔽通道分析。 其功能是在一定距离外，从电子设备和有线通信的电磁散射中，截获并分析出敌军的运算和通信内容（隐蔽通道技术范围很广，只说一下关于电磁散射的部分）。 03年萨达姆只用有线通信，如果不使用低泄露的高级通信缆的话，其实也是无用功。。。 附带提一句，美国芯片中，是有设计好的各种途径的隐蔽通道的…",
+  "vote": 445,
+  "thanks": 53,
+  "created_time": 1535219342,
+  "featured_comments": [
+    {
+      "content": "2的11次方减1等于多少，来了解一下？现在敢简单的民用通信，就是不考虑保密功能的那种通信，在传输时都要加入这种类型的扰码。加入后，一串数码，就会转换成另一串数码，转换的结果有“2的11次方减1”种可能，而且完全随机。是不是很利害？秒杀纳粹的恩尼格玛机不？一一一一可对于现代解密技术来说，这种加密方式根本就算“无加密\"类的。由此推论，真正高精尖的解密技术，你想想，得有多恐怖？",
+      "vote_count": 51,
+      "created_time": 1535237386,
+      "author": "长须鲸",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "2的11次方减1等于多少，来了解一下？现在敢简单的民用通信，就是不考虑保密功能的那种通信，在传输时都要加入这种类型的扰码。加入后，一串数码，就会转换成另一串数码，转换的结果有“2的11次方减1”种可能，而且完全随机。是不是很利害？秒杀纳粹的恩尼格玛机不？一一一一可对于现代解密技术来说，这种加密方式根本就算“无加密\"类的。由此推论，真正高精尖的解密技术，你想想，得有多恐怖？",
+          "vote_count": 51,
+          "created_time": 1535237386,
+          "author": "长须鲸",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "2的11次方减一也就4095种，不如纳粹密码机",
+            "vote_count": 9,
+            "created_time": 1535250327,
+            "author": "被腌死的咸鱼",
+            "reply_to_author": "长须鲸"
+          },
+          {
+            "content": "2的11次方是4096?",
+            "vote_count": 8,
+            "created_time": 1535255401,
+            "author": "斯坦福迷弟",
+            "reply_to_author": "被腌死的咸鱼"
+          },
+          {
+            "content": "<p>2047</p>",
+            "vote_count": 4,
+            "created_time": 1535321346,
+            "author": "空降到湖边",
+            "reply_to_author": "斯坦福迷弟"
+          },
+          {
+            "content": "2的10次方是1024，11次方是2048喔。<br>很大吗？以现在的算力，究举法秒破。",
+            "vote_count": 12,
+            "created_time": 1535370216,
+            "author": "ffaith",
+            "reply_to_author": "长须鲸"
+          },
+          {
+            "content": "根本不用电脑，一个计算器就破了",
+            "vote_count": 1,
+            "created_time": 1535527486,
+            "author": "徐逸",
+            "reply_to_author": "ffaith"
+          },
+          {
+            "content": "这不是一个很大的数字，甚至还不如我qq密码随机性高。",
+            "vote_count": 1,
+            "created_time": 1536554021,
+            "author": "THIS",
+            "reply_to_author": "长须鲸"
+          }
+        ]
+      }
+    },
+    {
+      "content": "<p>这年头谁敢明码通信？哪怕有线通信也要加密啊，如果不知道加密方式给你看了也没用。</p>",
+      "vote_count": 26,
+      "created_time": 1535224657,
+      "author": "许中",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "<p>这年头谁敢明码通信？哪怕有线通信也要加密啊，如果不知道加密方式给你看了也没用。</p>",
+          "vote_count": 26,
+          "created_time": 1535224657,
+          "author": "许中",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "你怕是忘了美帝在算法里动手脚了",
+            "vote_count": 8,
+            "created_time": 1535259704,
+            "author": "无用功",
+            "reply_to_author": "许中"
+          },
+          {
+            "content": "<p>为什么你认为一定要用美国人实现的现成算法？搞懂加密算法原理后稍作改动并自己实现，美国人如何动手脚？</p>",
+            "vote_count": 12,
+            "created_time": 1535264181,
+            "author": "许中",
+            "reply_to_author": "无用功"
+          },
+          {
+            "content": "算法就那几个怎么换，那算法是美国军方贡献给开源组织的无数人看了n遍过了很多年才疑似美国军方动了手脚，还没办法指责因为没有证据。你以为算法想写就能写出来的吗？算法的核心都是数学家搞出来的，你居然以为加密算法那么容易",
+            "vote_count": 0,
+            "created_time": 1535284236,
+            "author": "无用功",
+            "reply_to_author": "许中"
+          },
+          {
+            "content": "<p>设计一种加密算法原理确实困难，但是要把他实现成计算机可以运行的程序并不难。你非要说算法在原理上就加了后门我无话可说，</p>",
+            "vote_count": 9,
+            "created_time": 1535285889,
+            "author": "许中",
+            "reply_to_author": "无用功"
+          },
+          {
+            "content": "<p>算法是不能动手脚的，动手脚的是实现算法的代码，这种再造一个轮子就好了。</p>",
+            "vote_count": 8,
+            "created_time": 1535288518,
+            "author": "莫寒",
+            "reply_to_author": "无用功"
+          },
+          {
+            "content": "可问题是你怎么知道没动手脚？，上次那个代码开源那么久才查出来",
+            "vote_count": 0,
+            "created_time": 1535519037,
+            "author": "无用功",
+            "reply_to_author": "莫寒"
+          },
+          {
+            "content": "<p>都说了自己写啊，原理就是1+1=2，这个是没法动手脚的。实现代码就是有人懒得算，于是要找人来帮自己算，那找来的这个人就可以收买动手脚，解决方法就是自己亲自来算。</p>",
+            "vote_count": 5,
+            "created_time": 1535520858,
+            "author": "莫寒",
+            "reply_to_author": "无用功"
+          },
+          {
+            "content": "不知道加密方法可以穷举啊。现在公认的最安全的是量子通讯，不能被观察。",
+            "vote_count": 0,
+            "created_time": 1536574128,
+            "author": "防弹纸尿裤",
+            "reply_to_author": "许中"
+          },
+          {
+            "content": "朋友，你以为数据传输加密和银行密码是一回事吗？",
+            "vote_count": 0,
+            "created_time": 1536577423,
+            "author": "许中",
+            "reply_to_author": "防弹纸尿裤"
+          },
+          {
+            "content": "不好意思，银行密码在你输错多次就会吞卡，情报不会。银行卡丢了可以挂失，情报不会。只要有足够的样本，没有破不了的加密。这就是为什么大家都在研究量子通讯。因为连截获都变得不可能。",
+            "vote_count": 0,
+            "created_time": 1536586126,
+            "author": "防弹纸尿裤",
+            "reply_to_author": "许中"
+          },
+          {
+            "content": "密码分析就是专门破解算法的，了解一下？",
+            "vote_count": 0,
+            "created_time": 1537411186,
+            "author": "「已注销」",
+            "reply_to_author": "许中"
+          },
+          {
+            "content": "<p>密码分析是破解算法的？？？我随意百度了下，也知道你在不懂装懂了。</p>",
+            "vote_count": 0,
+            "created_time": 1537417080,
+            "author": "许中",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "你觉得我会浪费时间跟你解释什么吗？已经拉黑",
+            "vote_count": 0,
+            "created_time": 1537417970,
+            "author": "「已注销」",
+            "reply_to_author": "许中"
+          },
+          {
+            "content": "混沌加密算法几乎不可破译",
+            "vote_count": 0,
+            "created_time": 1547484872,
+            "author": "马驰",
+            "reply_to_author": "无用功"
+          }
+        ]
+      }
+    },
+    {
+      "content": "这种技术其实很早，二战时日军已经做到在2公里外窃听苏军电话线路，当然现代涉及到高强度的加解密，技术难度已经不在一个量级了",
+      "vote_count": 25,
+      "created_time": 1535246694,
+      "author": "孙十七",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "这种技术其实很早，二战时日军已经做到在2公里外窃听苏军电话线路，当然现代涉及到高强度的加解密，技术难度已经不在一个量级了",
+          "vote_count": 25,
+          "created_time": 1535246694,
+          "author": "孙十七",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "甲午战争后的马关条约谈判，日本就窃听了中方谈判团与国内的有线电报通讯",
+            "vote_count": 7,
+            "created_time": 1535247137,
+            "author": "繁星之下",
+            "reply_to_author": "孙十七"
+          }
+        ]
+      }
+    }
+  ],
+  "slug": "mei-guo-de-jun-shi-wu-qi-xian-jin-dao-shi-mo-cheng-du-shan-gao-xian-de-hui-da",
+  "title": "美国的军事武器先进到什么程度？-山高县的回答"
+}

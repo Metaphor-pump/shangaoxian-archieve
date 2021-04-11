@@ -1,0 +1,60 @@
+{
+  "id": 535007660,
+  "question": "为什么军装是迷彩?",
+  "author": "山高县",
+  "content": "<p>隆美尔《步兵攻击》一书头几章中出现频率最高的一句话:</p><p>————我/我们看见了法军的红裤子。。。。。。</p>",
+  "excerpt": "隆美尔《步兵攻击》一书头几章中出现频率最高的一句话: ———我/我们看见了法军的红裤子。。。",
+  "vote": 150,
+  "thanks": 10,
+  "created_time": 1542649788,
+  "featured_comments": [
+    {
+      "content": "一战早期的法国军服是大红色军裤，鲜蓝色上衣。",
+      "vote_count": 30,
+      "created_time": 1542652540,
+      "author": "达达",
+      "reply_to_author": null
+    },
+    {
+      "content": "郭德纲:拿过我的黄裤子来。<br>于谦:这是怕溅上屎啊。",
+      "vote_count": 27,
+      "created_time": 1542769395,
+      "author": "孙霸修",
+      "reply_to_author": "Xiuquan Yu",
+      "anchor_comments": {
+        "root_comment": {
+          "content": "改棕裤子吧",
+          "vote_count": 3,
+          "created_time": 1542760638,
+          "author": "Xiuquan Yu",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "郭德纲:拿过我的黄裤子来。<br>于谦:这是怕溅上屎啊。",
+            "vote_count": 27,
+            "created_time": 1542769395,
+            "author": "孙霸修",
+            "reply_to_author": "Xiuquan Yu"
+          },
+          {
+            "content": "德川家康：这是味噌！",
+            "vote_count": 4,
+            "created_time": 1542793858,
+            "author": "知乎用户",
+            "reply_to_author": "Xiuquan Yu"
+          }
+        ]
+      }
+    },
+    {
+      "content": "再配个黄上衣，一个虎皮裙，手里拿根棍",
+      "vote_count": 25,
+      "created_time": 1542783996,
+      "author": "金日驒",
+      "reply_to_author": null
+    }
+  ],
+  "slug": "wei-shi-mo-jun-zhuang-shi-mi-cai-shan-gao-xian-de-hui-da",
+  "title": "为什么军装是迷彩?-山高县的回答"
+}

@@ -1,0 +1,858 @@
+{
+  "id": 178718132,
+  "question": "如果美国用人工智能治国，我国还有还手之力吗？",
+  "author": "山高县",
+  "content": "由于对官僚的不信任，中国对计算机统治人类的兴趣远大于美国，而且不止停留在兴趣层面，是实实在在的在搞。。。。。。。<br/>比如说已经开发多年的法庭计算机量刑系统，不出意外的话已经离试用不远了。如果顺利的话，中国可能是第一个在某种程度上被电脑统治的国家。。。。。。。",
+  "excerpt": "由于对官僚的不信任，中国对计算机统治人类的兴趣远大于美国，而且不止停留在兴趣层面，是实实在在的在搞。。。 比如说已经开发多年的法庭计算机量刑系统，不出意外的话已经离试用不远了。如果顺利的话，中国可能是第一个在某种程度上被电脑统治的国家。。。",
+  "vote": 389,
+  "thanks": 59,
+  "created_time": 1496568225,
+  "featured_comments": [
+    {
+      "content": "卧槽还有这种东西",
+      "vote_count": 148,
+      "created_time": 1496571163,
+      "author": "wolray",
+      "reply_to_author": null
+    },
+    {
+      "content": "别闹，金税系统天天出问题，税局都在骂。要是计算机量刑我真不敢相信。",
+      "vote_count": 229,
+      "created_time": 1496572373,
+      "author": "米摩苏",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "别闹，金税系统天天出问题，税局都在骂。要是计算机量刑我真不敢相信。",
+          "vote_count": 229,
+          "created_time": 1496572373,
+          "author": "米摩苏",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "有这种东西，宣传的效果是根据描述给出推荐量刑和最近一段时间类似案件的量刑。不知道做出来没有。",
+            "vote_count": 18,
+            "created_time": 1496576407,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>我不是说不相信有这个东西，我是说连税务系统这种标准化那么高系统都天天出问题，你用机器量刑可信度有多高。</p>",
+            "vote_count": 31,
+            "created_time": 1496576652,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "<p>不一定比人低，而且现在仍然是人来做决定，通过给出参考，量刑失当的概率会降低。另外，由于案件上传可以被其他法官看到，可能会增大干扰司法的成本。</p>",
+            "vote_count": 36,
+            "created_time": 1496577057,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>如果还是人做决定仅仅是电子信息化和标准化，和ai相差甚远。</p>",
+            "vote_count": 3,
+            "created_time": 1496577257,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "就算用计算机量刑也会有人把关的吧",
+            "vote_count": 6,
+            "created_time": 1496578404,
+            "author": "Rocky-gh",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "人工智能量刑从宏观角度，可以杜绝因为不同地区法官因为自身局限或者其主观倾向性的误差是相同的案情出现不同刑期结果，随着未来高标准的法制体系社会的需要，从而最大化客观公正的建立世界一流法制国家。",
+            "vote_count": 24,
+            "created_time": 1496578936,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>问题是现在连不用智能的，标准化的电子信息系统都做得三天两天有问题。让我怎么相信人工智能能做好呢。</p>",
+            "vote_count": 2,
+            "created_time": 1496579090,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "就是以后有人把关也没有以前和现在这样令人不满或者暗箱操作。因为有不同地区，不同级别的法院的标准都一样，可以互相制约。",
+            "vote_count": 4,
+            "created_time": 1496579155,
+            "author": "周瑞",
+            "reply_to_author": "Rocky-gh"
+          },
+          {
+            "content": "如果什么都等到让你相信了，黄花菜都凉了吧。国家意志不以个体为转移，我们努力拼得的实力发展基础是为了以后万世笑傲天下的。",
+            "vote_count": 7,
+            "created_time": 1496580098,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "系统出问题，是系统写的问题，不要低估计算机的能力，计算机能计算出火箭，卫星，导弹的发射轨道。你所看的大片里的特效也是由电脑渲染出来的。",
+            "vote_count": 5,
+            "created_time": 1496580354,
+            "author": "游荡的小白",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>黄花菜凉不凉我不知道，但是那些评政府外包关系户做的东西三天两头出问题，不是你这里喊几句笑傲天下就能解决的。</p>",
+            "vote_count": 1,
+            "created_time": 1496580479,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "那是你们招标的时候有猫腻",
+            "vote_count": 3,
+            "created_time": 1496580498,
+            "author": "兰帕德",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>那不是系统的问题，而是做系统的人的问题。现在政府这种it外包出问题就是乱到不行。</p>",
+            "vote_count": 1,
+            "created_time": 1496580578,
+            "author": "米摩苏",
+            "reply_to_author": "游荡的小白"
+          },
+          {
+            "content": "<p>管我什么事，我又不是税局。</p>",
+            "vote_count": 0,
+            "created_time": 1496580597,
+            "author": "米摩苏",
+            "reply_to_author": "兰帕德"
+          },
+          {
+            "content": "看不到未来的大概率趋势，是因为你自身格局视野的局限性，不要因为暂时的一点阻力就失去信心。你知道卫星绕地球飞行与地面保持的高度误差是多少吗？答案是只有1毫米。还有更精确的，比如卫星在飞行时为了减小微乎阻力，相当于一片雪花落在百万吨级的航母上对航母产生的力都能给它计算出来然后解决掉，一点系统上暂时出现的漏洞根本不值一提。",
+            "vote_count": 3,
+            "created_time": 1496581379,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>你又不是实际工作的，打个嘴炮不容易。如果一个系统的漏洞在你身上出现了，就不是不值得一提的事了，要是系统出现漏洞判你死刑了，还谈什么鬼趋势。我也知道信息化标准化是趋势啊，可是现在的金税工程就是三天两头出问题，谈趋势才是根本不值一提。</p>",
+            "vote_count": 3,
+            "created_time": 1496581597,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "漏洞是可以修补的，利用云计算，人工智能升级社会各领域的管理的发展趋势是不可逆的。你说的这点放在宏观技术前瞻纬度看根本不是大的问题。",
+            "vote_count": 4,
+            "created_time": 1496582109,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>问题是现在修补了一年还没有修补完，我不能怀疑这个技术的成熟度吗？长远来了看， 秦陵 肯定是要发掘的，难道因为在宏观上看 秦陵 必然要发掘，现在有人说要挖掘 秦陵 ，我就不能怀疑发掘的技术不成熟？</p>",
+            "vote_count": 0,
+            "created_time": 1496582339,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "金税很靠谱了……全世界都没有过这样规模的税务系统……这么先进的",
+            "vote_count": 18,
+            "created_time": 1496583869,
+            "author": "Willy",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "现在税务开票都是直连税务局的，全部都是国税了，要是真是那么不稳定，早就造反了……",
+            "vote_count": 6,
+            "created_time": 1496583944,
+            "author": "Willy",
+            "reply_to_author": "米摩苏"
+          }
+        ]
+      }
+    },
+    {
+      "content": "电脑说我们死定了！",
+      "vote_count": 68,
+      "created_time": 1496573186,
+      "author": "Train",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "电脑说我们死定了！",
+          "vote_count": 68,
+          "created_time": 1496573186,
+          "author": "Train",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "电脑说 you are not prepar（滑稽",
+            "vote_count": 0,
+            "created_time": 1496672541,
+            "author": "dou alex",
+            "reply_to_author": "Train"
+          },
+          {
+            "content": "电脑说，我们贪什么呢？",
+            "vote_count": 0,
+            "created_time": 1496717707,
+            "author": "尼古拉斯特拉沃塔",
+            "reply_to_author": "Train"
+          },
+          {
+            "content": "贪女程序员😂",
+            "vote_count": 1,
+            "created_time": 1496722237,
+            "author": "终日乾乾",
+            "reply_to_author": "尼古拉斯特拉沃塔"
+          },
+          {
+            "content": "🙃🙃🙃",
+            "vote_count": 0,
+            "created_time": 1496734189,
+            "author": "尼古拉斯特拉沃塔",
+            "reply_to_author": "终日乾乾"
+          }
+        ]
+      }
+    },
+    {
+      "content": "<p>我不是说不相信有这个东西，我是说连税务系统这种标准化那么高系统都天天出问题，你用机器量刑可信度有多高。</p>",
+      "vote_count": 31,
+      "created_time": 1496576652,
+      "author": "米摩苏",
+      "reply_to_author": "「已注销」",
+      "anchor_comments": {
+        "root_comment": {
+          "content": "别闹，金税系统天天出问题，税局都在骂。要是计算机量刑我真不敢相信。",
+          "vote_count": 230,
+          "created_time": 1496572373,
+          "author": "米摩苏",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "有这种东西，宣传的效果是根据描述给出推荐量刑和最近一段时间类似案件的量刑。不知道做出来没有。",
+            "vote_count": 18,
+            "created_time": 1496576407,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>我不是说不相信有这个东西，我是说连税务系统这种标准化那么高系统都天天出问题，你用机器量刑可信度有多高。</p>",
+            "vote_count": 31,
+            "created_time": 1496576652,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "<p>不一定比人低，而且现在仍然是人来做决定，通过给出参考，量刑失当的概率会降低。另外，由于案件上传可以被其他法官看到，可能会增大干扰司法的成本。</p>",
+            "vote_count": 36,
+            "created_time": 1496577057,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>如果还是人做决定仅仅是电子信息化和标准化，和ai相差甚远。</p>",
+            "vote_count": 3,
+            "created_time": 1496577257,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "就算用计算机量刑也会有人把关的吧",
+            "vote_count": 6,
+            "created_time": 1496578404,
+            "author": "Rocky-gh",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "人工智能量刑从宏观角度，可以杜绝因为不同地区法官因为自身局限或者其主观倾向性的误差是相同的案情出现不同刑期结果，随着未来高标准的法制体系社会的需要，从而最大化客观公正的建立世界一流法制国家。",
+            "vote_count": 24,
+            "created_time": 1496578936,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>问题是现在连不用智能的，标准化的电子信息系统都做得三天两天有问题。让我怎么相信人工智能能做好呢。</p>",
+            "vote_count": 2,
+            "created_time": 1496579090,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "就是以后有人把关也没有以前和现在这样令人不满或者暗箱操作。因为有不同地区，不同级别的法院的标准都一样，可以互相制约。",
+            "vote_count": 4,
+            "created_time": 1496579155,
+            "author": "周瑞",
+            "reply_to_author": "Rocky-gh"
+          },
+          {
+            "content": "如果什么都等到让你相信了，黄花菜都凉了吧。国家意志不以个体为转移，我们努力拼得的实力发展基础是为了以后万世笑傲天下的。",
+            "vote_count": 7,
+            "created_time": 1496580098,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "系统出问题，是系统写的问题，不要低估计算机的能力，计算机能计算出火箭，卫星，导弹的发射轨道。你所看的大片里的特效也是由电脑渲染出来的。",
+            "vote_count": 5,
+            "created_time": 1496580354,
+            "author": "游荡的小白",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>黄花菜凉不凉我不知道，但是那些评政府外包关系户做的东西三天两头出问题，不是你这里喊几句笑傲天下就能解决的。</p>",
+            "vote_count": 1,
+            "created_time": 1496580479,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "那是你们招标的时候有猫腻",
+            "vote_count": 3,
+            "created_time": 1496580498,
+            "author": "兰帕德",
+            "reply_to_author": "米摩苏"
+          }
+        ]
+      }
+    },
+    {
+      "content": "<p>不一定比人低，而且现在仍然是人来做决定，通过给出参考，量刑失当的概率会降低。另外，由于案件上传可以被其他法官看到，可能会增大干扰司法的成本。</p>",
+      "vote_count": 36,
+      "created_time": 1496577057,
+      "author": "「已注销」",
+      "reply_to_author": "米摩苏",
+      "anchor_comments": {
+        "root_comment": {
+          "content": "别闹，金税系统天天出问题，税局都在骂。要是计算机量刑我真不敢相信。",
+          "vote_count": 230,
+          "created_time": 1496572373,
+          "author": "米摩苏",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "有这种东西，宣传的效果是根据描述给出推荐量刑和最近一段时间类似案件的量刑。不知道做出来没有。",
+            "vote_count": 18,
+            "created_time": 1496576407,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>我不是说不相信有这个东西，我是说连税务系统这种标准化那么高系统都天天出问题，你用机器量刑可信度有多高。</p>",
+            "vote_count": 31,
+            "created_time": 1496576652,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "<p>不一定比人低，而且现在仍然是人来做决定，通过给出参考，量刑失当的概率会降低。另外，由于案件上传可以被其他法官看到，可能会增大干扰司法的成本。</p>",
+            "vote_count": 36,
+            "created_time": 1496577057,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>如果还是人做决定仅仅是电子信息化和标准化，和ai相差甚远。</p>",
+            "vote_count": 3,
+            "created_time": 1496577257,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "就算用计算机量刑也会有人把关的吧",
+            "vote_count": 6,
+            "created_time": 1496578404,
+            "author": "Rocky-gh",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "人工智能量刑从宏观角度，可以杜绝因为不同地区法官因为自身局限或者其主观倾向性的误差是相同的案情出现不同刑期结果，随着未来高标准的法制体系社会的需要，从而最大化客观公正的建立世界一流法制国家。",
+            "vote_count": 24,
+            "created_time": 1496578936,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>问题是现在连不用智能的，标准化的电子信息系统都做得三天两天有问题。让我怎么相信人工智能能做好呢。</p>",
+            "vote_count": 2,
+            "created_time": 1496579090,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "就是以后有人把关也没有以前和现在这样令人不满或者暗箱操作。因为有不同地区，不同级别的法院的标准都一样，可以互相制约。",
+            "vote_count": 4,
+            "created_time": 1496579155,
+            "author": "周瑞",
+            "reply_to_author": "Rocky-gh"
+          },
+          {
+            "content": "如果什么都等到让你相信了，黄花菜都凉了吧。国家意志不以个体为转移，我们努力拼得的实力发展基础是为了以后万世笑傲天下的。",
+            "vote_count": 7,
+            "created_time": 1496580098,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "系统出问题，是系统写的问题，不要低估计算机的能力，计算机能计算出火箭，卫星，导弹的发射轨道。你所看的大片里的特效也是由电脑渲染出来的。",
+            "vote_count": 5,
+            "created_time": 1496580354,
+            "author": "游荡的小白",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>黄花菜凉不凉我不知道，但是那些评政府外包关系户做的东西三天两头出问题，不是你这里喊几句笑傲天下就能解决的。</p>",
+            "vote_count": 1,
+            "created_time": 1496580479,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "那是你们招标的时候有猫腻",
+            "vote_count": 3,
+            "created_time": 1496580498,
+            "author": "兰帕德",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>那不是系统的问题，而是做系统的人的问题。现在政府这种it外包出问题就是乱到不行。</p>",
+            "vote_count": 1,
+            "created_time": 1496580578,
+            "author": "米摩苏",
+            "reply_to_author": "游荡的小白"
+          }
+        ]
+      }
+    },
+    {
+      "content": "人工智能量刑从宏观角度，可以杜绝因为不同地区法官因为自身局限或者其主观倾向性的误差是相同的案情出现不同刑期结果，随着未来高标准的法制体系社会的需要，从而最大化客观公正的建立世界一流法制国家。",
+      "vote_count": 24,
+      "created_time": 1496578936,
+      "author": "周瑞",
+      "reply_to_author": "米摩苏",
+      "anchor_comments": {
+        "root_comment": {
+          "content": "别闹，金税系统天天出问题，税局都在骂。要是计算机量刑我真不敢相信。",
+          "vote_count": 230,
+          "created_time": 1496572373,
+          "author": "米摩苏",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "有这种东西，宣传的效果是根据描述给出推荐量刑和最近一段时间类似案件的量刑。不知道做出来没有。",
+            "vote_count": 18,
+            "created_time": 1496576407,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>我不是说不相信有这个东西，我是说连税务系统这种标准化那么高系统都天天出问题，你用机器量刑可信度有多高。</p>",
+            "vote_count": 31,
+            "created_time": 1496576652,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "<p>不一定比人低，而且现在仍然是人来做决定，通过给出参考，量刑失当的概率会降低。另外，由于案件上传可以被其他法官看到，可能会增大干扰司法的成本。</p>",
+            "vote_count": 36,
+            "created_time": 1496577057,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>如果还是人做决定仅仅是电子信息化和标准化，和ai相差甚远。</p>",
+            "vote_count": 3,
+            "created_time": 1496577257,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "就算用计算机量刑也会有人把关的吧",
+            "vote_count": 6,
+            "created_time": 1496578404,
+            "author": "Rocky-gh",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "人工智能量刑从宏观角度，可以杜绝因为不同地区法官因为自身局限或者其主观倾向性的误差是相同的案情出现不同刑期结果，随着未来高标准的法制体系社会的需要，从而最大化客观公正的建立世界一流法制国家。",
+            "vote_count": 24,
+            "created_time": 1496578936,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>问题是现在连不用智能的，标准化的电子信息系统都做得三天两天有问题。让我怎么相信人工智能能做好呢。</p>",
+            "vote_count": 2,
+            "created_time": 1496579090,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "就是以后有人把关也没有以前和现在这样令人不满或者暗箱操作。因为有不同地区，不同级别的法院的标准都一样，可以互相制约。",
+            "vote_count": 4,
+            "created_time": 1496579155,
+            "author": "周瑞",
+            "reply_to_author": "Rocky-gh"
+          },
+          {
+            "content": "如果什么都等到让你相信了，黄花菜都凉了吧。国家意志不以个体为转移，我们努力拼得的实力发展基础是为了以后万世笑傲天下的。",
+            "vote_count": 7,
+            "created_time": 1496580098,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "系统出问题，是系统写的问题，不要低估计算机的能力，计算机能计算出火箭，卫星，导弹的发射轨道。你所看的大片里的特效也是由电脑渲染出来的。",
+            "vote_count": 5,
+            "created_time": 1496580354,
+            "author": "游荡的小白",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>黄花菜凉不凉我不知道，但是那些评政府外包关系户做的东西三天两头出问题，不是你这里喊几句笑傲天下就能解决的。</p>",
+            "vote_count": 1,
+            "created_time": 1496580479,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "那是你们招标的时候有猫腻",
+            "vote_count": 3,
+            "created_time": 1496580498,
+            "author": "兰帕德",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>那不是系统的问题，而是做系统的人的问题。现在政府这种it外包出问题就是乱到不行。</p>",
+            "vote_count": 1,
+            "created_time": 1496580578,
+            "author": "米摩苏",
+            "reply_to_author": "游荡的小白"
+          },
+          {
+            "content": "<p>管我什么事，我又不是税局。</p>",
+            "vote_count": 0,
+            "created_time": 1496580597,
+            "author": "米摩苏",
+            "reply_to_author": "兰帕德"
+          },
+          {
+            "content": "看不到未来的大概率趋势，是因为你自身格局视野的局限性，不要因为暂时的一点阻力就失去信心。你知道卫星绕地球飞行与地面保持的高度误差是多少吗？答案是只有1毫米。还有更精确的，比如卫星在飞行时为了减小微乎阻力，相当于一片雪花落在百万吨级的航母上对航母产生的力都能给它计算出来然后解决掉，一点系统上暂时出现的漏洞根本不值一提。",
+            "vote_count": 3,
+            "created_time": 1496581379,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>你又不是实际工作的，打个嘴炮不容易。如果一个系统的漏洞在你身上出现了，就不是不值得一提的事了，要是系统出现漏洞判你死刑了，还谈什么鬼趋势。我也知道信息化标准化是趋势啊，可是现在的金税工程就是三天两头出问题，谈趋势才是根本不值一提。</p>",
+            "vote_count": 3,
+            "created_time": 1496581597,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          }
+        ]
+      }
+    },
+    {
+      "content": "卧槽还有这种东西",
+      "vote_count": 169,
+      "created_time": 1496571163,
+      "author": "wolray",
+      "reply_to_author": null
+    },
+    {
+      "content": "别闹，金税系统天天出问题，税局都在骂。要是计算机量刑我真不敢相信。",
+      "vote_count": 263,
+      "created_time": 1496572373,
+      "author": "米摩苏",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "别闹，金税系统天天出问题，税局都在骂。要是计算机量刑我真不敢相信。",
+          "vote_count": 263,
+          "created_time": 1496572373,
+          "author": "米摩苏",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "有这种东西，宣传的效果是根据描述给出推荐量刑和最近一段时间类似案件的量刑。不知道做出来没有。",
+            "vote_count": 20,
+            "created_time": 1496576407,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>我不是说不相信有这个东西，我是说连税务系统这种标准化那么高系统都天天出问题，你用机器量刑可信度有多高。</p>",
+            "vote_count": 42,
+            "created_time": 1496576652,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "<p>不一定比人低，而且现在仍然是人来做决定，通过给出参考，量刑失当的概率会降低。另外，由于案件上传可以被其他法官看到，可能会增大干扰司法的成本。</p>",
+            "vote_count": 50,
+            "created_time": 1496577057,
+            "author": "「已注销」",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>如果还是人做决定仅仅是电子信息化和标准化，和ai相差甚远。</p>",
+            "vote_count": 5,
+            "created_time": 1496577257,
+            "author": "米摩苏",
+            "reply_to_author": "「已注销」"
+          },
+          {
+            "content": "就算用计算机量刑也会有人把关的吧",
+            "vote_count": 7,
+            "created_time": 1496578404,
+            "author": "Rocky-gh",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "人工智能量刑从宏观角度，可以杜绝因为不同地区法官因为自身局限或者其主观倾向性的误差是相同的案情出现不同刑期结果，随着未来高标准的法制体系社会的需要，从而最大化客观公正的建立世界一流法制国家。",
+            "vote_count": 30,
+            "created_time": 1496578936,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>问题是现在连不用智能的，标准化的电子信息系统都做得三天两天有问题。让我怎么相信人工智能能做好呢。</p>",
+            "vote_count": 3,
+            "created_time": 1496579090,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "就是以后有人把关也没有以前和现在这样令人不满或者暗箱操作。因为有不同地区，不同级别的法院的标准都一样，可以互相制约。",
+            "vote_count": 6,
+            "created_time": 1496579155,
+            "author": "周瑞",
+            "reply_to_author": "Rocky-gh"
+          },
+          {
+            "content": "如果什么都等到让你相信了，黄花菜都凉了吧。国家意志不以个体为转移，我们努力拼得的实力发展基础是为了以后万世笑傲天下的。",
+            "vote_count": 10,
+            "created_time": 1496580098,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "系统出问题，是系统写的问题，不要低估计算机的能力，计算机能计算出火箭，卫星，导弹的发射轨道。你所看的大片里的特效也是由电脑渲染出来的。",
+            "vote_count": 8,
+            "created_time": 1496580354,
+            "author": "游荡的小白",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>黄花菜凉不凉我不知道，但是那些评政府外包关系户做的东西三天两头出问题，不是你这里喊几句笑傲天下就能解决的。</p>",
+            "vote_count": 1,
+            "created_time": 1496580479,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "那是你们招标的时候有猫腻",
+            "vote_count": 6,
+            "created_time": 1496580498,
+            "author": "兰帕德",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>那不是系统的问题，而是做系统的人的问题。现在政府这种it外包出问题就是乱到不行。</p>",
+            "vote_count": 2,
+            "created_time": 1496580578,
+            "author": "米摩苏",
+            "reply_to_author": "游荡的小白"
+          },
+          {
+            "content": "<p>管我什么事，我又不是税局。</p>",
+            "vote_count": 1,
+            "created_time": 1496580597,
+            "author": "米摩苏",
+            "reply_to_author": "兰帕德"
+          },
+          {
+            "content": "看不到未来的大概率趋势，是因为你自身格局视野的局限性，不要因为暂时的一点阻力就失去信心。你知道卫星绕地球飞行与地面保持的高度误差是多少吗？答案是只有1毫米。还有更精确的，比如卫星在飞行时为了减小微乎阻力，相当于一片雪花落在百万吨级的航母上对航母产生的力都能给它计算出来然后解决掉，一点系统上暂时出现的漏洞根本不值一提。",
+            "vote_count": 5,
+            "created_time": 1496581379,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>你又不是实际工作的，打个嘴炮不容易。如果一个系统的漏洞在你身上出现了，就不是不值得一提的事了，要是系统出现漏洞判你死刑了，还谈什么鬼趋势。我也知道信息化标准化是趋势啊，可是现在的金税工程就是三天两头出问题，谈趋势才是根本不值一提。</p>",
+            "vote_count": 4,
+            "created_time": 1496581597,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "漏洞是可以修补的，利用云计算，人工智能升级社会各领域的管理的发展趋势是不可逆的。你说的这点放在宏观技术前瞻纬度看根本不是大的问题。",
+            "vote_count": 6,
+            "created_time": 1496582109,
+            "author": "周瑞",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "<p>问题是现在修补了一年还没有修补完，我不能怀疑这个技术的成熟度吗？长远来了看， 秦陵 肯定是要发掘的，难道因为在宏观上看 秦陵 必然要发掘，现在有人说要挖掘 秦陵 ，我就不能怀疑发掘的技术不成熟？</p>",
+            "vote_count": 0,
+            "created_time": 1496582339,
+            "author": "米摩苏",
+            "reply_to_author": "周瑞"
+          },
+          {
+            "content": "金税很靠谱了……全世界都没有过这样规模的税务系统……这么先进的",
+            "vote_count": 20,
+            "created_time": 1496583869,
+            "author": "Willy",
+            "reply_to_author": "米摩苏"
+          },
+          {
+            "content": "现在税务开票都是直连税务局的，全部都是国税了，要是真是那么不稳定，早就造反了……",
+            "vote_count": 8,
+            "created_time": 1496583944,
+            "author": "Willy",
+            "reply_to_author": "米摩苏"
+          }
+        ]
+      }
+    },
+    {
+      "content": "参考文献在哪里？",
+      "vote_count": 50,
+      "created_time": 1496573170,
+      "author": "呵呵",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "参考文献在哪里？",
+          "vote_count": 50,
+          "created_time": 1496573170,
+          "author": "呵呵",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "你可以百度一下嘛。",
+            "vote_count": 7,
+            "created_time": 1496578703,
+            "author": "山高县",
+            "reply_to_author": "呵呵"
+          },
+          {
+            "content": "百度来的source不一定正确啊，所以劳烦您列一下咯",
+            "vote_count": 1,
+            "created_time": 1496587948,
+            "author": "mango chen",
+            "reply_to_author": "山高县"
+          },
+          {
+            "content": "列不出来，我不是在网上知道的。",
+            "vote_count": 5,
+            "created_time": 1496591444,
+            "author": "山高县",
+            "reply_to_author": "mango chen"
+          },
+          {
+            "content": "你是在哪里知道的",
+            "vote_count": 1,
+            "created_time": 1560415177,
+            "author": "左慈",
+            "reply_to_author": "山高县"
+          },
+          {
+            "content": "<p>搜索206工程有真相</p>",
+            "vote_count": 1,
+            "created_time": 1560513235,
+            "author": "潘达",
+            "reply_to_author": "呵呵"
+          },
+          {
+            "content": "嵩县就是律师，本职工作[酷]",
+            "vote_count": 0,
+            "created_time": 1565155945,
+            "author": "漫天星",
+            "reply_to_author": "左慈"
+          }
+        ]
+      }
+    },
+    {
+      "content": "<p>tg对官僚阶层的不信任是板上钉钉的。。这也是老毛为啥要搞出个wg的原因。。</p><p>虽然搞砸了，但是以后通过其他手段实现也不奇怪。好事还是坏事就不是我们能评判的了。</p>",
+      "vote_count": 31,
+      "created_time": 1496585558,
+      "author": "Seiya",
+      "reply_to_author": null
+    },
+    {
+      "content": "额答主求链接。。计算机量刑？",
+      "vote_count": 21,
+      "created_time": 1496573529,
+      "author": "Oscar-S",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "额答主求链接。。计算机量刑？",
+          "vote_count": 21,
+          "created_time": 1496573529,
+          "author": "Oscar-S",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "有…美国就有了，上次在微博看到的。哈哈哈程序对还有种族歧视，对黑人会判重点，白人则会从轻发落",
+            "vote_count": 10,
+            "created_time": 1496581341,
+            "author": "十代积善",
+            "reply_to_author": "Oscar-S"
+          },
+          {
+            "content": "真的这么猛的吗？",
+            "vote_count": 2,
+            "created_time": 1496585823,
+            "author": "stringstrange",
+            "reply_to_author": "十代积善"
+          },
+          {
+            "content": "嗯真的，那个州采用了机器量刑。",
+            "vote_count": 1,
+            "created_time": 1496587181,
+            "author": "十代积善",
+            "reply_to_author": "stringstrange"
+          },
+          {
+            "content": "的确，美国已经有计算机程序量刑，问题是这个是私人公司提供的专利产品，被判刑者申请公布评分细则，法官以专利产品保密为由拒绝公开，完全的黑箱操作啊……",
+            "vote_count": 3,
+            "created_time": 1496621019,
+            "author": "沈超飞",
+            "reply_to_author": "十代积善"
+          },
+          {
+            "content": "<p>上海的恶性罪犯中，外地人的比例占到了98%，所以上海法院歧视外地人。</p>",
+            "vote_count": 1,
+            "created_time": 1496644881,
+            "author": "哈五高",
+            "reply_to_author": "十代积善"
+          },
+          {
+            "content": "我司的就已经在试用了",
+            "vote_count": 1,
+            "created_time": 1496714787,
+            "author": "readzw",
+            "reply_to_author": "Oscar-S"
+          }
+        ]
+      }
+    }
+  ],
+  "slug": "ru-guo-mei-guo-yong-ren-gong-zhi-neng-zhi-guo-wo-guo-huan-you-huan-shou-zhi-li-ma-shan-gao-xian-de-hui-da",
+  "title": "如果美国用人工智能治国，我国还有还手之力吗？-山高县的回答"
+}

@@ -1,0 +1,585 @@
+{
+  "id": 26765290,
+  "question": "一颗核弹的破坏性有多大？",
+  "author": "JK JK",
+  "content": "<p>最简单的回答是“一颗核弹可以毁灭一个像北京、上海或香港这样的大型城市”，接下来我们要论的是不那么简单的答案：<strong><u>如果你是在编制核武器打击方案，目标是一座大城市，一颗核弹够用吗？</u></strong></p><br/><br/><p>在核战略研究的术语中，所讨论这种的打击叫做“打击社会财富（counter-value attack）”，与其对应的叫“打击军事力量（counter-force attack）”，因为我们讨论的是核武器对城市的摧毁力，所以是前者。在正式开始前，<strong><u>有几点必须要澄清一下</u></strong>。</p><p><strong><u>1</u></strong>，核爆炸的高度很重要，一般来说触地爆炸式用来对付加固目标/点目标的，空爆是用来对付软目标/面目标的。</p><p><strong><u>2</u></strong>，对于不同当量的核武器，可以选择一个“最优核爆炸高度”（optimum height of burst）来最大化某冲击波压力水平（比如说针对1.5万吨当量的广岛“小男孩”，我们想让某psi的压力面积最大，则可以选一个相应的高度；美军1945年选了580米左右的爆炸高度，这个高度是9psi，10psi的最佳爆高）</p><p><strong><u>3</u></strong>，如果高度足够高，则核爆炸的火球不会吸入大量地面尘土，则其放射性沉降（辐射落尘，fallout）的程度可以忽略不计（因为轻小粒子最后沉降下来时放射性已经大大衰减）。如果火球触地，则会有大量的放射产物以大体积粒子的形式，在短时间内飘落。（触地核爆炸自然会形成很大的放射性沉降）</p><p><strong><u>4</u></strong>，1945年8月对广岛和长崎的两颗原子弹（2万吨当量左右），在当年年底就造成了共计21万人的死亡。值得注意的是，广岛和长崎的核打击都是采用了空爆的形式，所以基本没有本地辐射落尘（local fallout）。</p><br/><p>接下来要澄清的问题是关于<strong><u>关键词“破坏性”和“毁灭”，如何定义它们呢？先来定义“破坏性”</u></strong>，也就是核爆炸的杀伤机制。在核武器瞄准与打击方案制定中，已知的途径有以下几种。</p><p><strong><u>1，瞬时摧毁与杀伤：冲击波。</u></strong></p><br/><p>但是冲击波超压（单位是我们这里为了方便用NUKEMAP，统一用psi）的值取多少才合适呢？一般在使用冲击波超压来做杀伤面积指标时，人员的死伤已经不是很重要，建筑物与基础设施的直接摧毁才是关键。不管如何，对于这个值，众说纷纭。</p><p>比如说1979年技术评估办公室（Office of Technology Assessment ）的报告《核战争的效应The Effects of Nuclear War》 里面取的是<strong><u>5psi</u></strong>以上（50%死亡），而<strong><u>12psi</u></strong>以上则是近100%死亡。注意，这里指的是城市环境中的楼房倒塌，进而导致人员伤亡；直接使用冲击波在空旷平地进行人员杀伤需要30psi左右。</p><figure><noscript><img src=\"https://pic2.zhimg.com/50/e9967e261050c32557932e9222b71c54_hd.jpg?source=1940ef5c\" data-rawheight=\"376\" data-rawwidth=\"500\" class=\"origin_image zh-lightbox-thumb\" width=\"500\" data-original=\"https://pic3.zhimg.com/e9967e261050c32557932e9222b71c54_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;500&#39; height=&#39;376&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"376\" data-rawwidth=\"500\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"500\" data-original=\"https://pic3.zhimg.com/e9967e261050c32557932e9222b71c54_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/e9967e261050c32557932e9222b71c54_hd.jpg?source=1940ef5c\"/></figure><figure><noscript><img src=\"https://pic4.zhimg.com/50/654bd00ca5fa8fa7b46c6ec05efe89fa_hd.jpg?source=1940ef5c\" data-rawheight=\"482\" data-rawwidth=\"1087\" class=\"origin_image zh-lightbox-thumb\" width=\"1087\" data-original=\"https://pic4.zhimg.com/654bd00ca5fa8fa7b46c6ec05efe89fa_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1087&#39; height=&#39;482&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"482\" data-rawwidth=\"1087\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1087\" data-original=\"https://pic4.zhimg.com/654bd00ca5fa8fa7b46c6ec05efe89fa_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/654bd00ca5fa8fa7b46c6ec05efe89fa_hd.jpg?source=1940ef5c\"/></figure><br/><p>但是同样是1979年，美国国家情报评估NIE11-3/8-78里面对“软目标/面目标”的摧毁标准是——<strong><u>15psi</u></strong>——“足以摧毁一座钢筋混凝土建筑物”。这高于技术评估办公室的标准，可以认为是确保毁伤的冲击波取值，所谓“上限”。</p><figure><noscript><img src=\"https://pic4.zhimg.com/50/bc047209a2348a26c9706a9bef136833_hd.jpg?source=1940ef5c\" data-rawheight=\"231\" data-rawwidth=\"469\" class=\"origin_image zh-lightbox-thumb\" width=\"469\" data-original=\"https://pic1.zhimg.com/bc047209a2348a26c9706a9bef136833_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;469&#39; height=&#39;231&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"231\" data-rawwidth=\"469\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"469\" data-original=\"https://pic1.zhimg.com/bc047209a2348a26c9706a9bef136833_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/bc047209a2348a26c9706a9bef136833_hd.jpg?source=1940ef5c\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/50/7b0954bb3cf2f201b77fc12606fd7c86_hd.jpg?source=1940ef5c\" data-rawheight=\"230\" data-rawwidth=\"307\" class=\"content_image\" width=\"307\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;307&#39; height=&#39;230&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"230\" data-rawwidth=\"307\" class=\"content_image lazy\" width=\"307\" data-actualsrc=\"https://pic2.zhimg.com/50/7b0954bb3cf2f201b77fc12606fd7c86_hd.jpg?source=1940ef5c\"/></figure><br/><p>又是1979年，美国防务承包商的一份报告《打击人口策略的可行性》中指出，苏联人防规划中，城市周边的疏散“缓冲区”目的是防止人口受到<strong><u>1.4psi</u></strong>的冲击波，这个又大大低于了技术评估办公室的标准，可以认为是“下限”。</p><figure><noscript><img src=\"https://pic2.zhimg.com/50/8def00587506f13dfd2080f5c859ed79_hd.jpg?source=1940ef5c\" data-rawheight=\"457\" data-rawwidth=\"826\" class=\"origin_image zh-lightbox-thumb\" width=\"826\" data-original=\"https://pic2.zhimg.com/8def00587506f13dfd2080f5c859ed79_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;826&#39; height=&#39;457&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"457\" data-rawwidth=\"826\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"826\" data-original=\"https://pic2.zhimg.com/8def00587506f13dfd2080f5c859ed79_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/8def00587506f13dfd2080f5c859ed79_hd.jpg?source=1940ef5c\"/></figure><figure><noscript><img src=\"https://pic3.zhimg.com/50/c44340ec5bb2860227a443e56d2b128e_hd.jpg?source=1940ef5c\" data-rawheight=\"380\" data-rawwidth=\"928\" class=\"origin_image zh-lightbox-thumb\" width=\"928\" data-original=\"https://pic4.zhimg.com/c44340ec5bb2860227a443e56d2b128e_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;928&#39; height=&#39;380&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"380\" data-rawwidth=\"928\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"928\" data-original=\"https://pic4.zhimg.com/c44340ec5bb2860227a443e56d2b128e_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic3.zhimg.com/50/c44340ec5bb2860227a443e56d2b128e_hd.jpg?source=1940ef5c\"/></figure><br/><p>在下面我们会看到不同标准选取的后果。</p><p><strong><u>2，短时摧毁与杀伤：火风暴。</u></strong></p><p>由于核武器爆炸还能以极强的热辐射的形式放出能量，还有一种毁伤方式是城市的大规模火灾，加上消防队无法救火，还有冲击波的帮助，可以在巨大范围内形成一片火海。10卡/平方厘米的热辐射能量被认为是点燃大面积火灾的标准（也就是初始的火风暴范围，当然火灾是会蔓延的）。<strong><u>10卡/平方厘米到12卡/</u></strong><strong><u>平方厘米</u></strong>的热辐射足以导致三度烧伤。</p><p>这就出现了与冲击波毁伤不同的现象，比如说如果按照5psi和12psi的标准，则单枚一百万吨当量的核武器（爆高2000米）在纽约中央公园上空爆炸，将会出现如下情况：</p><figure><noscript><img src=\"https://pic4.zhimg.com/50/85e640bba9ceadb0244e84e35d2b3f2c_hd.jpg?source=1940ef5c\" data-rawheight=\"602\" data-rawwidth=\"809\" class=\"origin_image zh-lightbox-thumb\" width=\"809\" data-original=\"https://pic4.zhimg.com/85e640bba9ceadb0244e84e35d2b3f2c_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;809&#39; height=&#39;602&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"602\" data-rawwidth=\"809\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"809\" data-original=\"https://pic4.zhimg.com/85e640bba9ceadb0244e84e35d2b3f2c_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/85e640bba9ceadb0244e84e35d2b3f2c_hd.jpg?source=1940ef5c\"/></figure><p>各个同心圆对应着1psi，2psi，5psi与12psi的冲击波范围，而红色的虚线则代表着初始火风暴的范围。由于处于这场超级大火状态下的人口基本不可能生存下来，所以计算冲击波杀伤效果跟计算火风暴杀伤效果是有巨大的差距的：技术评估办公室（冲击波）模型的结果是瞬时效应导致125万人死亡，265万人受伤，而火风暴模型造成的死亡人数是439万人。我们用NUKEMAP可以基本还原这两种杀伤机制的景象：</p><figure><noscript><img src=\"https://pic4.zhimg.com/50/fde28007da93d365a0ea643b17b63fbe_hd.jpg?source=1940ef5c\" data-rawheight=\"478\" data-rawwidth=\"531\" class=\"origin_image zh-lightbox-thumb\" width=\"531\" data-original=\"https://pic2.zhimg.com/fde28007da93d365a0ea643b17b63fbe_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;531&#39; height=&#39;478&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"478\" data-rawwidth=\"531\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"531\" data-original=\"https://pic2.zhimg.com/fde28007da93d365a0ea643b17b63fbe_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/fde28007da93d365a0ea643b17b63fbe_hd.jpg?source=1940ef5c\"/></figure><p>NUKEMAP这里使用的杀伤机制是冲击波（跟技术评估办公室的一样），191万人死亡，244万人受伤。所以热辐射导致的大面积火灾同冲击波都可以说是瞬时杀伤机制，但其覆盖范围可能存在很大的不同。</p><p><strong><u>3，短期摧毁和杀伤：放射性沉降（辐射落尘，fallout）。</u></strong></p><p>虽然有很多普遍流传的观念支持，但是在实际的核打击瞄准中，放射性沉降造成的人口伤亡一直处于一个极其边缘的地位，也就是说瞬时杀伤机制（特别是冲击波）才是主要关注点。例如，前述的1979年报告《打击人口策略的可行性》：</p><figure><noscript><img src=\"https://pic2.zhimg.com/50/be0d9bb8877f399807f1026cc53b54eb_hd.jpg?source=1940ef5c\" data-rawheight=\"228\" data-rawwidth=\"604\" class=\"origin_image zh-lightbox-thumb\" width=\"604\" data-original=\"https://pic2.zhimg.com/be0d9bb8877f399807f1026cc53b54eb_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;604&#39; height=&#39;228&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"228\" data-rawwidth=\"604\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"604\" data-original=\"https://pic2.zhimg.com/be0d9bb8877f399807f1026cc53b54eb_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/be0d9bb8877f399807f1026cc53b54eb_hd.jpg?source=1940ef5c\"/></figure><p>“人口死亡主要（大约有80%—90%）是由瞬时核效应造成的；考虑到，在本研究中讨论的是以核武器直接打击人口中心为主要目标的一种瞄准策略，所以在研究该策略的可行性时，忽略辐射落尘导致的伤亡并不会引入显著的误差。”</p><br/><p>虽然如此，仍然需要考虑放射性沉降这种“短期”杀伤效应；说它是短期，是因为在48小时以后，其辐射强度对降低到原来的百分之一。所以如果能在头48个小时内获得防核/防辐射掩体和清洁水源食品的保护，死亡率可以大大下降。当然核爆炸与其放射产物是会带来很多长期后果的（这个我们最后谈）。</p><p>不过这就要求“有辐射落尘产生”，也就是要求有足够低的爆炸高度，吸起地表土壤。这实际上与“优化冲击波范围的爆高选择”是存在冲突的。比如说美国三叉戟D-5潜射弹道导弹上装载的W-88核弹头，当量是455kt（45.5万吨），假设要最大化一个10psi冲击波的覆盖面积，它的最优爆高应该是1700米，可是一旦爆高大于645米，W-88核弹头将无法制造放射性沉降，这项杀伤机制可以忽略不计。</p><br/><br/><p>但是<strong><u>在触地核爆炸的情况下，放射性沉降完全可能会变成最重要的杀伤机理</u></strong>，特别是目标本身处于偏远地区的时候。2006年，美国两家智库出版的《中国核力量与美国核战计划》Chinese Nuclear Forces and U.S. Nuclear War Planning一般认为是比较翔实的，其中假想中方使用20枚4百万吨当量核弹头打击美国（空爆，高度过高导致没有辐射落尘），造成四千万人口伤亡（瞬时杀伤机制）。</p><p>即使是美国精确的“解除武装”核打击（也就是极端的打击军事力量/counter-force attack）——仅仅针对中国的20个导弹发射井——也会造成一千万人以上的伤亡。这后者便是辐射尘的一个可能案例：20枚W-88核弹头打击山区里的20个东风-5导弹井，采取触地核爆炸来摧毁加固导弹井与地下设施，瞬时效应造成了10万人左右的死亡，而剩下的近千万伤亡完全来自48小时内，放射产物向东南方向的飘散。</p><p>这是12月份风向的模拟。</p><figure><noscript><img src=\"https://pic1.zhimg.com/50/604db6b56c2338d684993891ac7844ee_hd.jpg?source=1940ef5c\" data-rawheight=\"651\" data-rawwidth=\"913\" class=\"origin_image zh-lightbox-thumb\" width=\"913\" data-original=\"https://pic4.zhimg.com/604db6b56c2338d684993891ac7844ee_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;913&#39; height=&#39;651&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"651\" data-rawwidth=\"913\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"913\" data-original=\"https://pic4.zhimg.com/604db6b56c2338d684993891ac7844ee_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/604db6b56c2338d684993891ac7844ee_hd.jpg?source=1940ef5c\"/></figure><p>这是6月份风向的模拟。</p><figure><noscript><img src=\"https://pic2.zhimg.com/50/0b78af037f96306422c018a0abb1fbdb_hd.jpg?source=1940ef5c\" data-rawheight=\"573\" data-rawwidth=\"913\" class=\"origin_image zh-lightbox-thumb\" width=\"913\" data-original=\"https://pic1.zhimg.com/0b78af037f96306422c018a0abb1fbdb_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;913&#39; height=&#39;573&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"573\" data-rawwidth=\"913\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"913\" data-original=\"https://pic1.zhimg.com/0b78af037f96306422c018a0abb1fbdb_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/0b78af037f96306422c018a0abb1fbdb_hd.jpg?source=1940ef5c\"/></figure><p>但是这也会让防护掩体的作用变得极其重要，如果中国完全没有人防掩体，则美国这次20枚弹头的打击造成平均伤亡是1800万，如果完全实现防核掩体的隐蔽，则伤亡降低到470万。</p><p>从某种程度上说，放射性沉降导致极小规模核武库有能力在仅仅打击几座城市的基础上，对敌国广袤的国土与大量人口进行杀伤。比如说中国20枚东风-5对美国城市的反击（400万吨当量，完全采用触地核爆炸以增加辐射落尘）：</p><figure><noscript><img src=\"https://pic1.zhimg.com/50/86d46303b0cc52a6fb43fc59a3436e61_hd.jpg?source=1940ef5c\" data-rawheight=\"411\" data-rawwidth=\"842\" class=\"origin_image zh-lightbox-thumb\" width=\"842\" data-original=\"https://pic1.zhimg.com/86d46303b0cc52a6fb43fc59a3436e61_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;842&#39; height=&#39;411&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"411\" data-rawwidth=\"842\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"842\" data-original=\"https://pic1.zhimg.com/86d46303b0cc52a6fb43fc59a3436e61_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/86d46303b0cc52a6fb43fc59a3436e61_hd.jpg?source=1940ef5c\"/></figure><p>结果是这比上述的空爆（优化10psi冲击波范围）造成的“4000万伤亡”还要高出两到四倍，也就是可能导致上亿人的伤亡（其中有超过5000万人死亡）。</p><p><strong><u>这里，我们对（打击社会财富条件下）核武器“破坏性”的定义做一个小总计。</u></strong></p><p><u><strong>A</strong></u><u><strong>，</strong></u>要使用冲击波/热辐射进行瞬时杀伤，必须要有足够的爆炸高度；要使用放射性沉降进行短期（48小时）杀伤，则最好实施触地核爆炸，可以沾染大片国土。例如美国1956年5月21日在比基尼环礁空投的TX-15-X1试验装置（试验代号：Cherokee，试验系列：红翼行动Operation Redwing），当量380万吨，没有产生任何辐射落尘。<br/></p><p><strong><u>B</u></strong><strong><u>，</u></strong>冲击波/热辐射对城市的破坏，是基本不可能防护的，也就从硬件摧毁的方向上实现了“打击社会财富”。相反地，辐射落尘可以通过进入掩体隐蔽和洗消等手段实现防护，而且在48小时以后会大大消解。这也就是为什么核武器打击方案中往往都是使用冲击波和超压面积来定义毁伤指标。例如说上述2006年的报告中，（打击美国人口最多的前20个城市）中方每一颗400万吨当量东风-5弹头平均能导致80万人死亡，200万人死伤。这都是空爆+冲击波的粗略计算结果。</p><p><strong><u>C</u></strong><strong><u>，</u></strong>这并不意味这核爆炸的长期生态效果/环境后果/社会学后果可以忽略，它们很有可能是极其严重甚至不可逆转的，但是由于没有确定的机理和模型解释，往往被边缘化了。比如说“核冬天”之类的理论推导，就一直没有能进入核武器打击方案之中。</p><br/><br/><p><strong><u>接下来就是定义“毁灭”，定义“毁灭大城市”。</u></strong></p><p>与普通民众所想的粗略概念不同，关于毁灭城市的指标与要求，核武器打击方案中也是有严格的规定的。比如说1978年的英国某文件《附录A：不可承受的损失》：</p><figure><noscript><img src=\"https://pic2.zhimg.com/50/2d8c02a2a36bfb2006d9a20087a86def_hd.jpg?source=1940ef5c\" data-rawheight=\"217\" data-rawwidth=\"931\" class=\"origin_image zh-lightbox-thumb\" width=\"931\" data-original=\"https://pic4.zhimg.com/2d8c02a2a36bfb2006d9a20087a86def_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;931&#39; height=&#39;217&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"217\" data-rawwidth=\"931\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"931\" data-original=\"https://pic4.zhimg.com/2d8c02a2a36bfb2006d9a20087a86def_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/2d8c02a2a36bfb2006d9a20087a86def_hd.jpg?source=1940ef5c\"/></figure><p>它比较详细地讨论了如何定义“不可承受的损失（unacceptable damage）”，其中有这样一段：</p><figure><noscript><img src=\"https://pic4.zhimg.com/50/1735baa0b83ed33740e303ac5ad9d224_hd.jpg?source=1940ef5c\" data-rawheight=\"404\" data-rawwidth=\"930\" class=\"origin_image zh-lightbox-thumb\" width=\"930\" data-original=\"https://pic2.zhimg.com/1735baa0b83ed33740e303ac5ad9d224_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;930&#39; height=&#39;404&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"404\" data-rawwidth=\"930\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"930\" data-original=\"https://pic2.zhimg.com/1735baa0b83ed33740e303ac5ad9d224_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/1735baa0b83ed33740e303ac5ad9d224_hd.jpg?source=1940ef5c\"/></figure><p>“当前，在用已有核武器打击苏联城市的方案中，我们使用的毁伤指标不是摧毁整个城市，也不是去杀伤某一数量的人口。它是要通过制造足够的破坏，导致城市崩溃而不能实现其社区功能。<strong><u>目前的方案要求，40%的目标区域要受到严重结构性毁伤（severe structural damage，SSD</u></strong><strong><u>）</u></strong>——也就是未加固的建筑物要被彻底破化，以至于不完全重建就无法使用。这种规模的打击还要确保，另有15%的目标城市建筑物不经过大规模维修就无法使用。只有15%的目标区域是可以毫发无损的。”</p><br/><p>既然这个问题是关于毁伤城市的，英国的这个方法是有借鉴意义的。因为英国核力量的运用原则长期以来实施“莫斯科标准”，即以摧毁莫斯科这一座城市为目的，希望能以此导致整个苏联的崩溃。当然，历史案例也给出了很多其他的答案。二战时期的持续战略轰炸，使得德国和日本的很多城市都有30%到50%的面积被完全摧毁，例如盟军3天对汉堡市的连续夜间轰炸，摧毁了市内50%的建筑物，但是在五个月左右的时间里，该市80%的工业产能又恢复了过来。长崎和广岛分别有超过60%，80%的建筑物被一次核攻击摧毁。但我们<strong><u>可以说</u></strong><strong><u>40%的面积SSD将摧毁</u></strong><strong><u>一座城市，以英国的实例为依据</u></strong>。</p><br/><br/><br/><p>于是接下来就是要问，<strong><u>多大的冲击波超压可以导致城市建筑物出现SSD呢？也就是说，要彻底摧毁城市街区，需要多大的psi？</u></strong></p><p>根据冷战时期的《北约目标数据库手册NATO Target Data Inventory (NTDI) Handbook》，不同的目标建筑物能承受不同等级的冲击波超压，要造成严重结构性毁伤（SSD），必须针对性地选址核打击爆炸高度。例如，W-88弹头在2000米高度空爆，优化的冲击波超压值是8psi，可导致“三到五层，砖混结构承重墙”严重结构性毁伤（SSD），其覆盖面积是51平方千米。</p><p>相应地，我们可以看看北约关于城市建筑物毁伤标准的要求，下列的冲击波超压值都是以达到严重结构性毁伤SSD为目的。</p><p>“四层以下/纪念性建筑物，砖混结构承重墙”：9psi左右（W-88于2000米空爆可覆盖43平方千米）</p><p>“二到十层，钢筋混凝土框架结构”：11psi左右（16平方千米）</p><p>“二到十层，钢结构建筑”/“二到十层，钢筋混凝土框架结构，抗震建筑”：16psi左右（5平方千米）</p><p>“二到十层，钢结构，抗震建筑”：21psi左右（2平方千米）20psi的冲击波已经可以把美国国会大楼这样的建筑物完全摧毁。</p><br/><p></p><p>有了这些历史资料，再依赖NUKEMAP的各种选项，我们可以大致给出一些结论了（其实<strong><u>结论明显是“不止一枚”。</u></strong>）</p><figure><noscript><img src=\"https://pic2.zhimg.com/50/df409ea15ba5615464a2f4b9003a27b1_hd.jpg?source=1940ef5c\" data-rawheight=\"610\" data-rawwidth=\"451\" class=\"origin_image zh-lightbox-thumb\" width=\"451\" data-original=\"https://pic2.zhimg.com/df409ea15ba5615464a2f4b9003a27b1_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;451&#39; height=&#39;610&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"610\" data-rawwidth=\"451\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"451\" data-original=\"https://pic2.zhimg.com/df409ea15ba5615464a2f4b9003a27b1_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/df409ea15ba5615464a2f4b9003a27b1_hd.jpg?source=1940ef5c\"/></figure><figure><noscript><img src=\"https://pic2.zhimg.com/50/9410710aec9d55c380d0752651f4e659_hd.jpg?source=1940ef5c\" data-rawheight=\"512\" data-rawwidth=\"442\" class=\"origin_image zh-lightbox-thumb\" width=\"442\" data-original=\"https://pic1.zhimg.com/9410710aec9d55c380d0752651f4e659_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;442&#39; height=&#39;512&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"512\" data-rawwidth=\"442\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"442\" data-original=\"https://pic1.zhimg.com/9410710aec9d55c380d0752651f4e659_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/9410710aec9d55c380d0752651f4e659_hd.jpg?source=1940ef5c\"/></figure><p>在正式开始解答之前，我们先设定北京/上海的城市面积大约是600平方千米（五环以内，城区面积/外环线以内，主城区面积），按照40%的SSD覆盖面积，需要完全摧毁240平方千米。</p><p>还有几个重要的前提：我们将不使用现实中已经不存在的、已经退役的、本国的核弹头型号。</p><p>选择了美国3种型号的核弹头：B-83，W-88，W-80（兼顾其突防能力与当量代表性）</p><p><strong><u>B-83：美国现役最大当量的核武器，核航弹，120万吨当量，可由B-2投送</u></strong></p><p><strong><u>W-88：美国现役最大当量弹道导弹核弹头，高精度，45.5万吨当量，由潜艇中发射的三叉戟D-5导弹投送</u></strong></p><p><strong><u>W-80：空射巡航导弹，由B-52发射，防区外突破，低空飞行；当量15万吨，可由B-52投送</u></strong></p><p></p><br/><br/><p>首先是<strong><u>冲击波的瞬时毁伤机制</u></strong>：下表中行表示需要的冲击波超压值，列表示武器型号，数字是覆盖240平方千米所需要的弹头数量（均进行了核爆炸高度的优化，不产生放射性沉降）这可能比较接近核武器打击方案中的要求。</p><figure><noscript><img src=\"https://pic2.zhimg.com/50/9507407ccbeb07dab6f9f7ad30790107_hd.jpg?source=1940ef5c\" data-rawheight=\"445\" data-rawwidth=\"569\" class=\"origin_image zh-lightbox-thumb\" width=\"569\" data-original=\"https://pic2.zhimg.com/9507407ccbeb07dab6f9f7ad30790107_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;569&#39; height=&#39;445&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"445\" data-rawwidth=\"569\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"569\" data-original=\"https://pic2.zhimg.com/9507407ccbeb07dab6f9f7ad30790107_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/9507407ccbeb07dab6f9f7ad30790107_hd.jpg?source=1940ef5c\"/></figure><p>按照“广岛标准”——9psi左右——可以得出需要5枚左右的大型/中型核武器，10枚以上的小型核武器。</p><br/><br/><p>然后是<strong><u>火风暴与大规模火灾</u></strong>，这里取“10卡/平方厘米”。（优化热辐射覆盖，不产生放射性沉降）</p><p>B-83：1枚</p><p>W-88：1枚</p><p>W-80：3枚</p><p>这里我们可以看看冲击波与火灾效应的巨大差异：对应着9psi的最优核爆炸高度，采用了广岛的冲击波标准，需要6枚W-88，但是如果考虑大规模火灾，只需要一颗。</p><figure><noscript><img src=\"https://pic4.zhimg.com/50/5a5d1f3f9a45d881f7aa447856b5bf4c_hd.jpg?source=1940ef5c\" data-rawheight=\"416\" data-rawwidth=\"578\" class=\"origin_image zh-lightbox-thumb\" width=\"578\" data-original=\"https://pic2.zhimg.com/5a5d1f3f9a45d881f7aa447856b5bf4c_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;578&#39; height=&#39;416&#39;&gt;&lt;/svg&gt;\" data-rawheight=\"416\" data-rawwidth=\"578\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"578\" data-original=\"https://pic2.zhimg.com/5a5d1f3f9a45d881f7aa447856b5bf4c_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/5a5d1f3f9a45d881f7aa447856b5bf4c_hd.jpg?source=1940ef5c\"/></figure><br/><br/><p>最后就是<strong><u>辐射落尘fallout</u></strong>，由于前述的原因，fallout需要的触地核爆炸一般不会对城市目标使用(因为放射性沉降有可防护性，冲击波杀伤更直接，更确定)，主要是对加固点目标（比如说导弹发射井或者是地下指挥掩体）使用。但是我们这里仍然考虑一下：回答是一枚位于远郊的核弹爆炸，风向配合的话，完全可以通过放射性沉降覆盖上述的240平方千米的面积。城市人口可以实施人防掩体的隐蔽，通过坚守等待裂变产物逐渐衰变掉。</p>",
+  "excerpt": "最简单的回答是“一颗核弹可以毁灭一个像北京、上海或香港这样的大型城市”，接下来我们要论的是不那么简单的答案： 如果你是在编制核武器打击方案，目标是一座大城市，一颗核弹够用吗？ 在核战略研究的术语中，所讨论这种的打击叫做“打击社会财富（counter-value attack）”，与其对应的叫“打击军事力量（counter-force attack）”，因为我们讨论的是核武器对城市的摧毁力，所以是前者。在正式开始前， 有几点必须要澄清一下。 …",
+  "vote": 6654,
+  "thanks": 1467,
+  "created_time": 1402594729,
+  "featured_comments": [
+    {
+      "content": "太专业了，可以问你是做如此分析基础支撑是来自于工作还是个人爱好？麻烦分享一下",
+      "vote_count": 395,
+      "created_time": 1402595782,
+      "author": "梁公子",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "太专业了，可以问你是做如此分析基础支撑是来自于工作还是个人爱好？麻烦分享一下",
+          "vote_count": 395,
+          "created_time": 1402595782,
+          "author": "梁公子",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "超大的2炮论坛有比这个更专业的分析。这些都不是机密，是你们平常根本不关心而已，只要有心总是能找到",
+            "vote_count": 90,
+            "created_time": 1432104064,
+            "author": "翻滚吧牛宝宝",
+            "reply_to_author": "梁公子"
+          },
+          {
+            "content": "科普文。",
+            "vote_count": 15,
+            "created_time": 1442192150,
+            "author": "城市战尖兵",
+            "reply_to_author": "梁公子"
+          },
+          {
+            "content": "其实只要美方放放言论就行了，怕死的心理因素，北京那么多怕死有钱人，不出3天北京就空了",
+            "vote_count": 25,
+            "created_time": 1496726790,
+            "author": "sfhcnfehjalzp",
+            "reply_to_author": "梁公子"
+          },
+          {
+            "content": "看了最后一张图 住在北京五环的我很踏实😉",
+            "vote_count": 3,
+            "created_time": 1519049905,
+            "author": "「已注销」",
+            "reply_to_author": "sfhcnfehjalzp"
+          },
+          {
+            "content": "美国放着言论，他自己国内的人也要撤。",
+            "vote_count": 4,
+            "created_time": 1524273542,
+            "author": "专注",
+            "reply_to_author": "sfhcnfehjalzp"
+          },
+          {
+            "content": "房价就跌没了，，，",
+            "vote_count": 0,
+            "created_time": 1524274542,
+            "author": "Mr.ALG",
+            "reply_to_author": "sfhcnfehjalzp"
+          },
+          {
+            "content": "您是认真的吗？可别忘了咱抗战13年的历史！以北京的人口量，让这么多人紧急疏散都不能在三天内完成。",
+            "vote_count": 4,
+            "created_time": 1524274956,
+            "author": "梁华",
+            "reply_to_author": "sfhcnfehjalzp"
+          },
+          {
+            "content": "十四年抗战",
+            "vote_count": 3,
+            "created_time": 1570428927,
+            "author": "细节决定成败",
+            "reply_to_author": "梁华"
+          },
+          {
+            "content": "这么简单的话我们反向宣布对同样级别的城市进行核打（反）击就可以了，我就不信美国富人都是真仙。",
+            "vote_count": 0,
+            "created_time": 1597670981,
+            "author": "芹菜",
+            "reply_to_author": "sfhcnfehjalzp"
+          }
+        ]
+      }
+    },
+    {
+      "content": "问题是。。。这。。。难道。。。不。。。。。。涉密吗。。。。。。。。。。。。",
+      "vote_count": 161,
+      "created_time": 1402635646,
+      "author": "杨城",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "问题是。。。这。。。难道。。。不。。。。。。涉密吗。。。。。。。。。。。。",
+          "vote_count": 161,
+          "created_time": 1402635646,
+          "author": "杨城",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "全部使用的是外国人的资料啊，也就没有什么涉密的问题吧",
+            "vote_count": 133,
+            "created_time": 1402671164,
+            "author": "you happyou",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "也是。。。但是这样光明正大的发表出来还是挺有魄力的。。。。。。",
+            "vote_count": 16,
+            "created_time": 1402707463,
+            "author": "杨城",
+            "reply_to_author": "you happyou"
+          },
+          {
+            "content": "这种资料网上一查一把……",
+            "vote_count": 20,
+            "created_time": 1421862765,
+            "author": "吃货省肠粉爱好者",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "威力肯定不会吧，制作或者材料等才是机密。",
+            "vote_count": 12,
+            "created_time": 1432100547,
+            "author": "Michael BOBO",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "没涉密",
+            "vote_count": 2,
+            "created_time": 1442192305,
+            "author": "城市战尖兵",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "整天泄密，国外的情报机构比天朝的屁民还要清楚天朝的情况。",
+            "vote_count": 22,
+            "created_time": 1454085989,
+            "author": "爽歪歪",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "英国那份文件上赫然写着top secret",
+            "vote_count": 16,
+            "created_time": 1496702932,
+            "author": "俞洋",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "都解密了，之前的密级只具有一点参考价值",
+            "vote_count": 4,
+            "created_time": 1496704706,
+            "author": "PROZAC",
+            "reply_to_author": "俞洋"
+          },
+          {
+            "content": "早就脱密了。。哪份脱密文件没有曾经的密级？",
+            "vote_count": 9,
+            "created_time": 1504601262,
+            "author": "PROZAC",
+            "reply_to_author": "俞洋"
+          },
+          {
+            "content": "已经unclassfiled了好吗",
+            "vote_count": 0,
+            "created_time": 1519541826,
+            "author": "FROST1997",
+            "reply_to_author": "俞洋"
+          },
+          {
+            "content": "<p>哪儿来那么多射密</p>",
+            "vote_count": 1,
+            "created_time": 1519903404,
+            "author": "石头剪子布",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "这俩个英文我认识，哈哈，",
+            "vote_count": 0,
+            "created_time": 1524274600,
+            "author": "Mr.ALG",
+            "reply_to_author": "俞洋"
+          },
+          {
+            "content": "四十年前勉强算今天就大路货了",
+            "vote_count": 2,
+            "created_time": 1524276164,
+            "author": "中庸",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "<p>你没发现都是外国文献吗？</p>",
+            "vote_count": 1,
+            "created_time": 1529053684,
+            "author": "鼠式坦克歼击机车",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "<p>每年高考卷还都是绝密文件呢，考完之后满大街都能买着</p>",
+            "vote_count": 0,
+            "created_time": 1561608369,
+            "author": "A5B8LLC",
+            "reply_to_author": "杨城"
+          }
+        ]
+      }
+    },
+    {
+      "content": "我觉得如果考虑对公众心理的杀伤力的话......北京再大一倍，也是一颗足矣。",
+      "vote_count": 166,
+      "created_time": 1402664523,
+      "author": "范贵隍",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "我觉得如果考虑对公众心理的杀伤力的话......北京再大一倍，也是一颗足矣。",
+          "vote_count": 166,
+          "created_time": 1402664523,
+          "author": "范贵隍",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "你这就是废话了。谁敢朝英法美中俄国首都发射一枚核弹都意味着末日来了。",
+            "vote_count": 31,
+            "created_time": 1432486434,
+            "author": "臧大为",
+            "reply_to_author": "范贵隍"
+          },
+          {
+            "content": "\"朝英法美中俄\" 很有道理 lol",
+            "vote_count": 2,
+            "created_time": 1496699181,
+            "author": "2-20滑膛枪等96人",
+            "reply_to_author": "臧大为"
+          },
+          {
+            "content": "朝鲜首都。。。。",
+            "vote_count": 1,
+            "created_time": 1496708007,
+            "author": "exploit guo",
+            "reply_to_author": "臧大为"
+          },
+          {
+            "content": "不是这个意思 是存在反导系统",
+            "vote_count": 0,
+            "created_time": 1524275970,
+            "author": "Rylynn",
+            "reply_to_author": "范贵隍"
+          },
+          {
+            "content": "核弹的覆盖范围远远大于一座超级城市",
+            "vote_count": 0,
+            "created_time": 1524276016,
+            "author": "Rylynn",
+            "reply_to_author": "范贵隍"
+          }
+        ]
+      }
+    },
+    {
+      "content": "不得不说，知乎里藏龙卧虎啊！从不知道回答问题的、提问的、点赞的到底是什么身份，间谍？特务？外星人...",
+      "vote_count": 341,
+      "created_time": 1402671373,
+      "author": "javier wang",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "不得不说，知乎里藏龙卧虎啊！从不知道回答问题的、提问的、点赞的到底是什么身份，间谍？特务？外星人...",
+          "vote_count": 341,
+          "created_time": 1402671373,
+          "author": "javier wang",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "哈哈。。。你猜。。。",
+            "vote_count": 6,
+            "created_time": 1402707487,
+            "author": "杨城",
+            "reply_to_author": "javier wang"
+          },
+          {
+            "content": "汪～",
+            "vote_count": 6,
+            "created_time": 1432123486,
+            "author": "邓钧文",
+            "reply_to_author": "javier wang"
+          },
+          {
+            "content": "<p>说不定外星人觉得内心毫无波动，甚至还想笑。。。</p>",
+            "vote_count": 7,
+            "created_time": 1496207774,
+            "author": "Winston",
+            "reply_to_author": "javier wang"
+          },
+          {
+            "content": "是啊，比如水滴，还考虑什么高度，什么当量。直接动能毁伤。",
+            "vote_count": 0,
+            "created_time": 1496725346,
+            "author": "木头",
+            "reply_to_author": "Winston"
+          },
+          {
+            "content": "鱼唇的地球人",
+            "vote_count": 1,
+            "created_time": 1523523985,
+            "author": "猴子用菊花",
+            "reply_to_author": "javier wang"
+          },
+          {
+            "content": "社会学+8<a href=\"https://pic4.zhimg.com/v2-db92f653a2ec17ea3ff309d6d56e8507.gif\" class=\"comment_sticker\" data-width=\"0\" data-height=\"0\" data-sticker-id=\"980770591112015872\">[吃瓜]</a>",
+            "vote_count": 0,
+            "created_time": 1564219629,
+            "author": "无限非概率驱动",
+            "reply_to_author": "javier wang"
+          }
+        ]
+      }
+    },
+    {
+      "content": "赞大牛！您是怎么收集到这么多数据的",
+      "vote_count": 72,
+      "created_time": 1402622787,
+      "author": "Frank",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "赞大牛！您是怎么收集到这么多数据的",
+          "vote_count": 72,
+          "created_time": 1402622787,
+          "author": "Frank",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "关注的话，很多公开资料都有。",
+            "vote_count": 1,
+            "created_time": 1442192277,
+            "author": "城市战尖兵",
+            "reply_to_author": "Frank"
+          },
+          {
+            "content": "这些都是公开的。",
+            "vote_count": 1,
+            "created_time": 1496707579,
+            "author": "唐泰斯",
+            "reply_to_author": "Frank"
+          }
+        ]
+      }
+    },
+    {
+      "content": "这。。一般人接触不到这个吧？？",
+      "vote_count": 45,
+      "created_time": 1402660563,
+      "author": "ARPG向",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "这。。一般人接触不到这个吧？？",
+          "vote_count": 45,
+          "created_time": 1402660563,
+          "author": "ARPG向",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "。。。这特么全世界只有他们这帮百分之0，00000000001的人才可能知道。。。。。。",
+            "vote_count": 24,
+            "created_time": 1402707421,
+            "author": "杨城",
+            "reply_to_author": "ARPG向"
+          },
+          {
+            "content": "你的意思是，全世界只有不到10个人知道答主这些内容？",
+            "vote_count": 7,
+            "created_time": 1407122942,
+            "author": "不死机",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "意思是知道的人很少。。。夸张的说法",
+            "vote_count": 2,
+            "created_time": 1432133227,
+            "author": "杨城",
+            "reply_to_author": "不死机"
+          },
+          {
+            "content": "那不就是没有一个人知道了嘛",
+            "vote_count": 0,
+            "created_time": 1468488125,
+            "author": "战斗力旺盛的国王",
+            "reply_to_author": "杨城"
+          },
+          {
+            "content": "早公开了",
+            "vote_count": 0,
+            "created_time": 1528819733,
+            "author": "Ms.Quin",
+            "reply_to_author": "ARPG向"
+          },
+          {
+            "content": "你这零数量级比世界人口都多",
+            "vote_count": 0,
+            "created_time": 1530495448,
+            "author": "模拟信号",
+            "reply_to_author": "杨城"
+          }
+        ]
+      }
+    },
+    {
+      "content": "专业到看不下去了呀",
+      "vote_count": 35,
+      "created_time": 1402672852,
+      "author": "Felix",
+      "reply_to_author": null
+    },
+    {
+      "content": "真来核弹了，我躲在北京地铁一、二号线里能扛过冲击波和火风暴吗？",
+      "vote_count": 34,
+      "created_time": 1402678599,
+      "author": "伍晨",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "真来核弹了，我躲在北京地铁一、二号线里能扛过冲击波和火风暴吗？",
+          "vote_count": 34,
+          "created_time": 1402678599,
+          "author": "伍晨",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "不大可能火风暴。燃烧是对空下沉形成吸力。而且还是空爆……………",
+            "vote_count": 4,
+            "created_time": 1407135152,
+            "author": "彦臻",
+            "reply_to_author": "伍晨"
+          },
+          {
+            "content": "不能！下阵五公里才行。",
+            "vote_count": 1,
+            "created_time": 1432103977,
+            "author": "做个普通人",
+            "reply_to_author": "伍晨"
+          },
+          {
+            "content": "在人防工事里生还的可能性就很高",
+            "vote_count": 1,
+            "created_time": 1442192406,
+            "author": "城市战尖兵",
+            "reply_to_author": "伍晨"
+          },
+          {
+            "content": "死定了，",
+            "vote_count": 0,
+            "created_time": 1450848583,
+            "author": "Hexogenius",
+            "reply_to_author": "伍晨"
+          },
+          {
+            "content": "空爆人品好活的下来，问题是你在首都，没这福气",
+            "vote_count": 1,
+            "created_time": 1471353719,
+            "author": "墙角君",
+            "reply_to_author": "伍晨"
+          },
+          {
+            "content": "没啥鸟用，中美俄一爆发核战，北上广深一线城市肯定会首当其冲",
+            "vote_count": 0,
+            "created_time": 1477552367,
+            "author": "PITT",
+            "reply_to_author": "伍晨"
+          },
+          {
+            "content": "成功率较高",
+            "vote_count": 1,
+            "created_time": 1493019303,
+            "author": "FROST1997",
+            "reply_to_author": "伍晨"
+          },
+          {
+            "content": "火风暴听说是只有木制建筑比较多的广岛长崎才会有的。",
+            "vote_count": 1,
+            "created_time": 1505785198,
+            "author": "苏万里",
+            "reply_to_author": "彦臻"
+          },
+          {
+            "content": "<p>一瞬间，整个北京就over；最强威力核武，一瞬间大半个河南gg了</p>",
+            "vote_count": 0,
+            "created_time": 1524467761,
+            "author": "将返回",
+            "reply_to_author": "伍晨"
+          }
+        ]
+      }
+    },
+    {
+      "content": "还是要和平不要战争啊。太可怕了。",
+      "vote_count": 34,
+      "created_time": 1402672622,
+      "author": "刘青峰",
+      "reply_to_author": null
+    },
+    {
+      "content": "我才知道在河南",
+      "vote_count": 25,
+      "created_time": 1402676054,
+      "author": "焓熵",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "我才知道在河南",
+          "vote_count": 25,
+          "created_time": 1402676054,
+          "author": "焓熵",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "我大洛阳无限中枪，伏牛山近千米的花岗岩层可不是吹的",
+            "vote_count": 14,
+            "created_time": 1407630188,
+            "author": "赢森",
+            "reply_to_author": "焓熵"
+          },
+          {
+            "content": "我们学校旁边就有二炮，打起来还是我们最先完蛋(●—●)",
+            "vote_count": 3,
+            "created_time": 1438735031,
+            "author": "托马卡克之冠",
+            "reply_to_author": "焓熵"
+          },
+          {
+            "content": "一样没救，只能祈祷没有战争",
+            "vote_count": 0,
+            "created_time": 1450848618,
+            "author": "Hexogenius",
+            "reply_to_author": "赢森"
+          },
+          {
+            "content": "最近洛阳有点火～",
+            "vote_count": 0,
+            "created_time": 1496731940,
+            "author": "睿智的B乎",
+            "reply_to_author": "赢森"
+          },
+          {
+            "content": "火在哪了？",
+            "vote_count": 0,
+            "created_time": 1496736013,
+            "author": "赢森",
+            "reply_to_author": "睿智的B乎"
+          },
+          {
+            "content": "广场舞大妈与篮球少年场地之争",
+            "vote_count": 0,
+            "created_time": 1496738950,
+            "author": "睿智的B乎",
+            "reply_to_author": "赢森"
+          },
+          {
+            "content": "洛阳人武德充沛，你是不知道几年前还有广场大爷集会怒斥走资派政府，被警察驱散的事吗？",
+            "vote_count": 1,
+            "created_time": 1496739427,
+            "author": "赢森",
+            "reply_to_author": "睿智的B乎"
+          }
+        ]
+      }
+    }
+  ],
+  "slug": "yi-ke-he-dan-de-po-huai-xing-you-duo-da-JKJK-de-hui-da",
+  "title": "一颗核弹的破坏性有多大？-JK JK的回答"
+}

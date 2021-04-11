@@ -1,0 +1,128 @@
+{
+  "id": 1147661220,
+  "question": "如何评价知乎用户山高县的「蛮夷入关学」？",
+  "author": "九号",
+  "content": "<h2>入关学亟待以定量分析为基本方法论的延伸发展</h2><p>「入关学」经山高县开天辟地，震耳欲聋的一声啼鸣诞生。经由「入关学圣保罗」<a class=\"member_mention\" href=\"https://www.zhihu.com/people/38b262d006a33721bc095eea0719abe2\" data-hash=\"38b262d006a33721bc095eea0719abe2\" data-hovercard=\"p$b$38b262d006a33721bc095eea0719abe2\">@寒冰射手曹草草</a> 诲人不倦，呕心沥血的传播，今日已成知乎显学。</p><h2>然而入关学数个亟待解决的重要问题仍盘旋在半空中:</h2><ul><li>谁是我们的朋友，谁是我们的敌人。</li></ul><blockquote>毛选开篇提问：谁是我们的朋友，谁是我们的敌人，这是革命的第一问题。没有搞清楚这个问题的答案，是中国近代革命前期收效甚微的主要原因。</blockquote><ul><li>农村包围城市？还是城市包围农村？</li></ul><blockquote>确定革命路线是决定革命生死的重大抉择。没有革命路线，革命的努力仿佛逆水行舟，迷雾中茫然前行。而确定革命路线必须深刻结合自身的状况和外部世界的状况，缺少实证研究是万不可的。</blockquote><h2>根据以上分析，我认为「入关学」亟待引入定量的分析方法，来为「入关学」提供发展方向指导。</h2><p>我们根据「入关学」最引入注目的数个概念，提出几个重要指标：</p><ol><li>大House指数。</li><li>肉蛋奶指数（2020-04-15更新）。</li><li><u>耕地指数--改为资源指数（待更新）</u>。</li></ol><h2>大House指数</h2><p>每个人都有追求美好生活的基本权利，每个人都有为自己争取更优异生存条件的根本冲动。这是「入关学」之所以能够打动听众的重要原因。<b>根据对大House指数的分析，我们可以发现，是什么导致了「入关学」的蓬勃发展？谁是「入关学」的主要听众？谁在阻碍人们追求幸福，而逼得人们不得不「入关」？</b></p><p><b>「入关学」第一指标：大House指数</b></p><p><img src=\"https://www.zhihu.com/equation?tex=H%3D%5Ctext%7B%E4%BA%BA%E5%9D%87%E5%B1%85%E4%BD%8F%E9%9D%A2%E7%A7%AF%7D+%2B+1%2F%5Ctext%7B%E6%88%BF%E4%BB%B7%E6%94%B6%E5%85%A5%E6%AF%94%7D\" alt=\"H=\\text{人均居住面积} + 1/\\text{房价收入比}\" eeimg=\"1\"/> </p><p>其中，人均居住面积与房价收入比均使用 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7BX-min%7D%7Bmax-min%7D\" alt=\"\\frac{X-min}{max-min}\" eeimg=\"1\"/> 进行线性映射。H指数的「入关学」意义是，人们在基本权利——居住权上所享有的权利大小，和为了追求居住权所要付出努力的多少。<b>H指数越大，代表人们有更多的居住面积，并且为了追求居住面积所花费的生命越少。反之，H指数越小，代表人们居住面积更小，并且为了换取本就不大的居住面积也需要付出繁重的劳动。</b></p><p><b>下面计算几个重要国家地区的H指数。</b></p><blockquote><b>2017 人均居住面积（单位：平方英尺）</b><br/><b>US 656 = 61</b>㎡<br/><b>Canada 618 = 57.4</b>㎡<br/><b>Australia 549 = 53.7</b>㎡<br/><b>Germany 492 = 45.7</b>㎡<br/><b>France 454 = 42.2</b>㎡<br/><b>England 454 = 42.2</b>㎡<br/><b>Spain 386 = 36</b>㎡<br/><b>Mexico 354 = 32.9</b>㎡<br/><b>Brazil 348 = 32.3</b>㎡<br/><b>2017-07-06日公布的消息:2016年全国居民人均住房建筑面积为40.8平方米，其中城镇居民人均居住面积36.9㎡，农村居民人均居住面积46.7㎡。</b><br/><b>部分城市人均居住面积：深圳：21.10平；上海：30.01平；香港：15平。</b></blockquote><p><b>房价收入比：</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic4.zhimg.com/50/v2-fe42813df64e33d506882983b9e0fff5_hd.jpg?source=1940ef5c\" data-rawwidth=\"1000\" data-rawheight=\"906\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-b61cd6e486de2af8a86679378f29d164_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"1000\" data-original=\"https://pic2.zhimg.com/v2-fe42813df64e33d506882983b9e0fff5_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;1000&#39; height=&#39;906&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"1000\" data-rawheight=\"906\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-b61cd6e486de2af8a86679378f29d164_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"1000\" data-original=\"https://pic2.zhimg.com/v2-fe42813df64e33d506882983b9e0fff5_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic4.zhimg.com/50/v2-fe42813df64e33d506882983b9e0fff5_hd.jpg?source=1940ef5c\"/><figcaption>中国部分城市房价收入比</figcaption></figure><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-3e35df85fc7b6880335ff4919940f053_hd.jpg?source=1940ef5c\" data-rawwidth=\"787\" data-rawheight=\"548\" data-size=\"normal\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-56312fa6832480415ecb18bcc741a739_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"787\" data-original=\"https://pic2.zhimg.com/v2-3e35df85fc7b6880335ff4919940f053_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;787&#39; height=&#39;548&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"787\" data-rawheight=\"548\" data-size=\"normal\" data-default-watermark-src=\"https://pic1.zhimg.com/50/v2-56312fa6832480415ecb18bcc741a739_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"787\" data-original=\"https://pic2.zhimg.com/v2-3e35df85fc7b6880335ff4919940f053_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-3e35df85fc7b6880335ff4919940f053_hd.jpg?source=1940ef5c\"/><figcaption>美国房价收入比</figcaption></figure><p><b>由以上数据计算部分地区的H指数：</b></p><ol><li><b>美国: 1.81</b></li><li>加拿大：1.32</li><li>澳大利亚：1.26</li><li><b>加州：1.12</b></li><li>德国：1.07</li><li>法国：0.92</li><li><b>哈尔滨：0.87</b></li><li><b>上海：0.603</b></li><li><b>深圳：0.43</b></li><li><b>香港：0.304</b></li></ol><p><b>结果：全世界人民的大House指数分布极度不均。大House在全世界的极度不平衡，为「入关学」提供了现实基础。例如，美国人民获取大House所付出的心力远远低于香港人民，即使是美国内卷胜地加州，大House指数也超过欧洲的大多数发达国家。</b></p><p><b>尝试使用大House指数解答文章开头提出的第一个疑问：谁是我们的敌人，谁是我们的朋友？</b>人人都向往大House，入关学认为，当今世界的劳动人民无法住上大House归根到底是由于大House在世界范围内的极度分布不均。「入关学」认为，只有入关后纠正大House在世界范围内的分布不均，才能让全世界的劳动人民住上大House。作为大House指数垫底的东亚各国理应成为「入关学」毫无疑问的主力，尤其是东亚大型城市里自有居住面积很小，甚至为0的社畜。而美国人民即使是普通工人职员，也能够住上几倍于东亚高级程序员的大House。所以，美国是「大明」，而我们要「入关」不是空穴来风，而是有确切的事实基础。</p><p><b>同时，使用大House指数解答文章开头提出的第二个疑问：农村包围城市，还是城市包围农村？</b>在美国，即使是最内卷的加州，大House指数也远远超过欧洲发达国家，更是几倍于东亚地区。所以期望变革发生在发生在「大明」内部，是不现实的妄想，只能通过「农村包围城市」，用「入关」才能破解当前的局面。</p><p class=\"ztext-empty-paragraph\"><br/></p><h2>肉蛋奶指数（4-15更新）</h2><p><b>相信大家都看过「猫和老鼠」，汤姆的家既宽敞又干净，家里有各种电器：冰箱、台灯、电风扇，房间外是大院子，有只大狗，大狗有自己的狗窝，大狗的日常饮品是牛奶。小时候的我经常被他们的冰箱所吸引。冰箱里总是装满了食物：大块奶酪，大块馅饼，牛奶面包，大块的肋眼牛排，火腿等等。那冰箱仿佛有魔力一般，拿它与本世纪初我家的冰箱对比，总让人惆怅和向往。</b></p><p>后来才知道，猫和老师是美国二战时期的动画。在知道这事的那一刻，我的情感很难表达。要知道，即使是在70年后的今天，中国的大部分人民仍不能像美国二战时的普通家庭一样，用食物把冰箱装满，甚至许多的家庭也许根本没有冰箱。中国人的牛奶消费量，仍然不及居民推荐摄入量的十分之一。而二战时期的美国家庭，已经可以用牛奶来喂自家的宠物狗。</p><p><b>每个人都需要充足的食物，只不过对于一些人来说食物不过是唾手可得的「东西」而已，而对于一些人，食物就意味着生活，意味着所有。接下来，我们引入肉蛋奶指数，来衡量不同地区人民的饮食水平。</b></p><p><img src=\"https://www.zhihu.com/equation?tex=%5Ctext%7B%E8%82%89%E8%9B%8B%E5%A5%B6%E6%8C%87%E6%95%B0%7D%3D%E4%BA%BA%E5%9D%87%E8%82%89%E5%A5%B6%E6%B6%88%E8%B4%B9%E9%87%8F%2B%E4%BA%BA%E5%9D%87%E6%AF%8F%E6%97%A5%E8%83%BD%E9%87%8F%E6%91%84%E5%85%A5%E9%87%8F\" alt=\"\\text{肉蛋奶指数}=人均肉奶消费量+人均每日能量摄入量\" eeimg=\"1\"/> </p><p>其中，人均肉奶消费量和人均每日能量摄入量均使用 <img src=\"https://www.zhihu.com/equation?tex=%5Cfrac%7BX-min%7D%7Bmax-min%7D\" alt=\"\\frac{X-min}{max-min}\" eeimg=\"1\"/> 进行线性映射到0-1区间内。</p><p>首先，人均肉类消费量：</p><figure data-size=\"normal\"><noscript><img src=\"https://pic2.zhimg.com/50/v2-1a2bf88c26d2e85f98465f79c7bc1930_hd.jpg?source=1940ef5c\" data-rawwidth=\"739\" data-rawheight=\"496\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-a5503a890d951528ecfb2d0efebed038_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"739\" data-original=\"https://pic4.zhimg.com/v2-1a2bf88c26d2e85f98465f79c7bc1930_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;739&#39; height=&#39;496&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"739\" data-rawheight=\"496\" data-size=\"normal\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-a5503a890d951528ecfb2d0efebed038_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"739\" data-original=\"https://pic4.zhimg.com/v2-1a2bf88c26d2e85f98465f79c7bc1930_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic2.zhimg.com/50/v2-1a2bf88c26d2e85f98465f79c7bc1930_hd.jpg?source=1940ef5c\"/><figcaption>人均肉类消费量(KG)</figcaption></figure><p class=\"ztext-empty-paragraph\"><br/></p><p>一些国家和地区的肉类消费量（每人每年）：</p><ol><li><b>美国：124.1KG</b></li><li><b>澳大利亚：121.6KG</b></li><li>阿根廷：109.38KG</li><li>法国：83.4KG</li><li><b>中国：60.59KG</b></li><li>日本：49.33KG</li><li><b>印度：3.78KG</b></li></ol><p><b>人均奶类消费量</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-ba425ef1026e959e5ee65ed0983cd798_hd.jpg?source=1940ef5c\" data-rawwidth=\"739\" data-rawheight=\"578\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-03261fc93f4d1450894772d2dc6d95ac_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"739\" data-original=\"https://pic1.zhimg.com/v2-ba425ef1026e959e5ee65ed0983cd798_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;739&#39; height=&#39;578&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"739\" data-rawheight=\"578\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-03261fc93f4d1450894772d2dc6d95ac_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"739\" data-original=\"https://pic1.zhimg.com/v2-ba425ef1026e959e5ee65ed0983cd798_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-ba425ef1026e959e5ee65ed0983cd798_hd.jpg?source=1940ef5c\"/></figure><p>一些国家和地区的奶类消费量（每人每年）：</p><ol><li><b>哈萨克斯坦：270.03KG</b></li><li><b>法国：260.11KG</b></li><li><b>美国：254.87KG</b></li><li>澳大利亚：219.48KG</li><li>印度：106.06KG</li><li>日本：58.63KG</li><li><b>中国：24.04KG</b></li><li><b>韩国：18.21KG</b></li></ol><p><b>人均能量摄入</b></p><figure data-size=\"normal\"><noscript><img src=\"https://pic1.zhimg.com/50/v2-a6b9334e119fe5c77b9714dac125571b_hd.jpg?source=1940ef5c\" data-rawwidth=\"722\" data-rawheight=\"490\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-e31d3a68c293aa000dc0e22f1a66abfe_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb\" width=\"722\" data-original=\"https://pic1.zhimg.com/v2-a6b9334e119fe5c77b9714dac125571b_r.jpg?source=1940ef5c\"/></noscript><img src=\"data:image/svg+xml;utf8,&lt;svg xmlns=&#39;http://www.w3.org/2000/svg&#39; width=&#39;722&#39; height=&#39;490&#39;&gt;&lt;/svg&gt;\" data-rawwidth=\"722\" data-rawheight=\"490\" data-size=\"normal\" data-caption=\"\" data-default-watermark-src=\"https://pic2.zhimg.com/50/v2-e31d3a68c293aa000dc0e22f1a66abfe_hd.jpg?source=1940ef5c\" class=\"origin_image zh-lightbox-thumb lazy\" width=\"722\" data-original=\"https://pic1.zhimg.com/v2-a6b9334e119fe5c77b9714dac125571b_r.jpg?source=1940ef5c\" data-actualsrc=\"https://pic1.zhimg.com/50/v2-a6b9334e119fe5c77b9714dac125571b_hd.jpg?source=1940ef5c\"/></figure><p>一些国家和地区的总能量摄入（每人每日）：</p><ol><li><b>美国：3682 kcal</b></li><li>法国：3482 kcal</li><li>澳大利亚：3276 kcal</li><li><b>中国：3108 kcal</b></li><li>日本：2726 kcal</li><li>印度：2459 kcal</li></ol><p>综上，计算出部分国家地区的<b>肉蛋奶指数</b>如下：</p><ol><li><b>美国：2.94</b></li><li>法国：2.46</li><li>澳大利亚：2.45</li><li><b>中国：1.03</b></li><li><b>日本：0.76</b></li><li><b>印度：0.35</b></li></ol><p><b>在饮食方面，整个亚洲和欧洲北美，有着不可逾越的巨大差距。</b>一个普通的美国人，平均一年的肉类消费量，是一个中国人的两倍多，是一个日本人的2.5倍，是一个印度人的33倍。一个普通的法国人，一年的奶类消费量，是一个中国的10倍以上。<b>而美国人仍然将其他国家人民对营养的基本追求，视作是破坏，罪恶。并且印钱给自己的走狗，抨击他国人民对食物的追求，将环境的改变归咎于他国人民的餐桌。</b></p><p>入关！并不是一句空动的口号。入关，是人们对美好生活的向往。<b>不同地区的饮食质量的巨大差距，是无论如何也无法忽视的。日本人可以无限抬高寿司的身价，把寿司形容成玉盘珍馐，但是仍然无法掩盖日本人蛋白质摄入量偏低的事实。入关的必要性，是看得见的，闻得到的。入关与否，决定了盘子里多一块牛肉，还是多一个馒头。</b></p><p>分析肉蛋奶指数，我们发现，并不只是我们需要「入关」，广大的南亚人民，和其他东亚国家人民，都处于能量摄入不足或者蛋白质输入不足的状态。在饮食方面，亚洲人民站在同样的立场。我们是战友！</p><hr/><p>等待更新....资源指数／或者其他大家认为有价值的量化分析。</p><p class=\"ztext-empty-paragraph\"><br/></p><p>参考资料：</p><ul><li>中国人均居住面积：<a href=\"https://link.zhihu.com/?target=http%3A//www.stats.gov.cn/tjfw/tjzx/tjzxbd/201812/t20181206_1637975.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">stats.gov.cn/tjfw/tjzx/</span><span class=\"invisible\">tjzxbd/201812/t20181206_1637975.html</span><span class=\"ellipsis\"></span></a></li><li>美国房价收入比：<a href=\"https://link.zhihu.com/?target=https%3A//www.jchs.harvard.edu/blog/price-to-income-ratios-are-nearing-historic-highs/\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://www.</span><span class=\"visible\">jchs.harvard.edu/blog/p</span><span class=\"invisible\">rice-to-income-ratios-are-nearing-historic-highs/</span><span class=\"ellipsis\"></span></a></li><li>各国人均居住面积：<a href=\"https://link.zhihu.com/?target=http%3A//shrinkthatfootprint.com/how-big-is-a-house\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://</span><span class=\"visible\">shrinkthatfootprint.com</span><span class=\"invisible\">/how-big-is-a-house</span><span class=\"ellipsis\"></span></a></li><li>上海人均居住面积：<a href=\"https://link.zhihu.com/?target=http%3A//www.shanghai.gov.cn/nw2/nw2314/nw24651/nw43437/nw43478/u21aw1311828.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">shanghai.gov.cn/nw2/nw2</span><span class=\"invisible\">314/nw24651/nw43437/nw43478/u21aw1311828.html</span><span class=\"ellipsis\"></span></a></li><li>深圳人均居住面积：<a href=\"https://link.zhihu.com/?target=http%3A//www.fangchan.com/data/13/2018-02-24/6373052394410152270.html\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">http://www.</span><span class=\"visible\">fangchan.com/data/13/20</span><span class=\"invisible\">18-02-24/6373052394410152270.html</span><span class=\"ellipsis\"></span></a></li><li>人均肉奶消费量：<a href=\"https://link.zhihu.com/?target=https%3A//ourworldindata.org/meat-production\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">ourworldindata.org/meat</span><span class=\"invisible\">-production</span><span class=\"ellipsis\"></span></a></li><li>人均能量摄入：<a href=\"https://link.zhihu.com/?target=https%3A//ourworldindata.org/food-supply\" class=\" external\" target=\"_blank\" rel=\"nofollow noreferrer\"><span class=\"invisible\">https://</span><span class=\"visible\">ourworldindata.org/food</span><span class=\"invisible\">-supply</span><span class=\"ellipsis\"></span></a></li></ul>",
+  "excerpt": "入关学亟待以定量分析为基本方法论的延伸发展「入关学」经山高县开天辟地，震耳欲聋的一声啼鸣诞生。经由「入关学圣保罗」 @寒冰射手曹草草 诲人不倦，呕心沥血的传播，今日已成知乎显学。然而入关学数个亟待解决的重要问题仍盘旋在半空中:谁是我们的朋友，谁是我们的敌人。毛选开篇提问：谁是我们的朋友，谁是我们的敌人，这是革命的第一问题。没有搞清楚这个问题的答案，是中国近代革命前期收效甚微的主要原因。农村包围城市？…",
+  "vote": 793,
+  "thanks": 121,
+  "created_time": 1586676872,
+  "featured_comments": [
+    {
+      "content": "先圣坐下七十二贤人之首就是你了",
+      "vote_count": 154,
+      "created_time": 1586689476,
+      "author": "喵蕉君",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "先圣坐下七十二贤人之首就是你了",
+          "vote_count": 154,
+          "created_time": 1586689476,
+          "author": "喵蕉君",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "宜岁时侑食于嵩圣之享殿，俱得标名沾祭<br><br>来人，上冷猪肉！[惊喜]",
+            "vote_count": 15,
+            "created_time": 1587131708,
+            "author": "「已注销」",
+            "reply_to_author": "喵蕉君"
+          }
+        ]
+      }
+    },
+    {
+      "content": "中文核心期刊《入关》要办起来<a href=\"https://pic4.zhimg.com/v2-ba306425d0a7aee2c7260381f1bf7b97.gif\" class=\"comment_sticker\" data-width=\"0\" data-height=\"0\" data-sticker-id=\"990581350222589952\">[欢呼]</a>",
+      "vote_count": 131,
+      "created_time": 1586691428,
+      "author": "木非",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "中文核心期刊《入关》要办起来<a href=\"https://pic4.zhimg.com/v2-ba306425d0a7aee2c7260381f1bf7b97.gif\" class=\"comment_sticker\" data-width=\"0\" data-height=\"0\" data-sticker-id=\"990581350222589952\">[欢呼]</a>",
+          "vote_count": 131,
+          "created_time": 1586691428,
+          "author": "木非",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "然后在入关成功之后取消本刊物，完成历史使命[惊喜]",
+            "vote_count": 36,
+            "created_time": 1586932804,
+            "author": "九号",
+            "reply_to_author": "木非"
+          },
+          {
+            "content": "取消不了啊，百万漕工衣食所系啊[惊喜]",
+            "vote_count": 9,
+            "created_time": 1587169400,
+            "author": "勃列日涅夫",
+            "reply_to_author": "九号"
+          }
+        ]
+      }
+    },
+    {
+      "content": "大豪斯不单指人均住房面积，更指方圆1km无人的这种概念",
+      "vote_count": 33,
+      "created_time": 1586692375,
+      "author": "0443",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "大豪斯不单指人均住房面积，更指方圆1km无人的这种概念",
+          "vote_count": 33,
+          "created_time": 1586692375,
+          "author": "0443",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "有道理！考虑加入人口密度基本变量",
+            "vote_count": 21,
+            "created_time": 1586743046,
+            "author": "九号",
+            "reply_to_author": "0443"
+          }
+        ]
+      }
+    },
+    {
+      "content": "心系曹学的都是做题家么？i了i了[飙泪笑][飙泪笑]",
+      "vote_count": 27,
+      "created_time": 1586692673,
+      "author": "王Eric",
+      "reply_to_author": null
+    },
+    {
+      "content": "《入关学的数学原理》[惊喜]",
+      "vote_count": 21,
+      "created_time": 1586777281,
+      "author": "玖鸢",
+      "reply_to_author": null,
+      "anchor_comments": {
+        "root_comment": {
+          "content": "《入关学的数学原理》[惊喜]",
+          "vote_count": 21,
+          "created_time": 1586777281,
+          "author": "玖鸢",
+          "reply_to_author": null
+        },
+        "comments": [
+          {
+            "content": "[惊喜]新时代开始了",
+            "vote_count": 1,
+            "created_time": 1586922147,
+            "author": "九号",
+            "reply_to_author": "玖鸢"
+          }
+        ]
+      }
+    }
+  ],
+  "slug": "ru-he-ping-jia-zhi-hu-yong-hu-shan-gao-xian-de-man-yi-ru-guan-xue-jiu-hao-de-hui-da",
+  "title": "如何评价知乎用户山高县的「蛮夷入关学」？-九号的回答"
+}
